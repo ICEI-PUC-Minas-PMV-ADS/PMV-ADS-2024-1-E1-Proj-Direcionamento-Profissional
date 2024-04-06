@@ -19,11 +19,17 @@ profissionais.
 ## Integrantes
 
 Ana Clara Dunningham Matos Seixas
+
 Ana Izabel de Sá Carvalho
+
 Cristhiane Maria Assi
+
 Joaquim Lopes de Sousa Neto
+
 Karina Reis 
+
 Victor Emanuel de Souza
+
 
 ## Orientador
 
