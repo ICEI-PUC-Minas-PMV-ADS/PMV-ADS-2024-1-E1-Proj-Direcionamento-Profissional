@@ -45,16 +45,16 @@ Para definir o público-alvo com precisão, foram realizadas entrevistas com um 
 
 Este grupo é composto por indivíduos já formados em áreas diversas, que estão buscando uma transição de carreira para o campo do desenvolvimento de software. Eles possuem experiência profissional, embora não necessariamente na área de tecnologia, e estão em busca de uma nova vocação que ofereça oportunidades de crescimento, inovação e remuneração atrativa. Eles têm interesse em:
 
- •	Explorar e entender as diversas especializações dentro da área de desenvolvimento, como desenvolvimento front-end, back-end, full-stack, desenvolvimento de aplicativos móveis, entre outros, para identificar qual caminho é mais alinhado com seus interesses e habilidades prévias.
- •	Obter informações claras e atualizadas sobre a remuneração média no mercado para diferentes especializações de desenvolvimento, a fim de fazer escolhas de carreira informadas que também atendam às suas expectativas financeiras.
+ •	Explorar e entender as diversas especializações dentro da área de desenvolvimento, como desenvolvimento front-end, back-end, full-stack, desenvolvimento de aplicativos móveis, entre outros, para identificar qual caminho é mais alinhado com seus interesses e habilidades prévias.<br>
+ •	Obter informações claras e atualizadas sobre a remuneração média no mercado para diferentes especializações de desenvolvimento, a fim de fazer escolhas de carreira informadas que também atendam às suas expectativas financeiras.<br>
  •	Aprender exatamente quais habilidades e conhecimentos são necessários para se tornarem desenvolvedores bem-sucedidos, incluindo linguagens de programação, ferramentas e conceitos fundamentais, bem como as melhores rotas de aprendizado para adquirir essas competências, seja por meio de cursos online, bootcamps de programação ou graduações.
 
 2.	Formandos do Ensino Médio com Interesse em Desenvolvimento de Software:
 
 Este segmento é formado por jovens que estão concluindo o ensino médio e têm um forte interesse em seguir carreira no campo do desenvolvimento de software. Eles estão no início de sua jornada profissional, sem experiência de trabalho ou formação superior, mas com uma paixão pela tecnologia e um desejo de aprender. Eles buscam:
 
- •	Informações fundamentais sobre a carreira em desenvolvimento de software, incluindo os diferentes caminhos que podem seguir dentro da área e o que cada um desses caminhos envolve em termos de trabalho diário, projetos e colaboração em equipe.
- •	Orientações claras sobre como dar os primeiros passos na aprendizagem de programação, incluindo quais linguagens de programação são recomendadas para iniciantes, recursos de aprendizagem acessíveis, como tutoriais online gratuitos, cursos introdutórios e comunidades de programação para iniciantes.
+ •	Informações fundamentais sobre a carreira em desenvolvimento de software, incluindo os diferentes caminhos que podem seguir dentro da área e o que cada um desses caminhos envolve em termos de trabalho diário, projetos e colaboração em equipe.<br>
+ •	Orientações claras sobre como dar os primeiros passos na aprendizagem de programação, incluindo quais linguagens de programação são recomendadas para iniciantes, recursos de aprendizagem acessíveis, como tutoriais online gratuitos, cursos introdutórios e comunidades de programação para iniciantes.<br>
  •	Conselhos sobre como construir uma base sólida que os prepare para estudos superiores em tecnologia, seja através de uma graduação ou cursos técnicos especializados, e como essas escolhas podem impactar suas carreiras a longo prazo.
 
 Ambos os segmentos estão em busca de transformação e crescimento pessoal e profissional através da tecnologia. Eles valorizam a educação, seja formal ou autodirigida, e estão motivados a investir tempo e recursos no desenvolvimento de novas habilidades.
