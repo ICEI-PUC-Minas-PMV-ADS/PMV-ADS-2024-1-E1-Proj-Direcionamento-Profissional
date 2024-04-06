@@ -1,25 +1,26 @@
-# Título do Projeto
+## Direcionamento Profissional: Norteie-se.com
 
-`CURSO`
+Análise e Desenvolvimento de Sistemas - PUC Minas
 
-`DISCIPLINA`
+Desenvolvimento de Aplicação Web Front-End
 
-`SEMESTRE`
+1º semestre/2024
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+Ana Clara Dunningham Matos Seixas
+Ana Izabel de Sá Carvalho
+Cristhiane Maria Assi
+Joaquim Lopes de Sousa Neto
+Karina Reis 
+Victor Emanuel de Souza
 
 ## Orientador
 
-* Nome completo do professor
+Humberto Azevedo Nigri do Carmo
+
 
 # Documentação
 
