@@ -7,7 +7,7 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </th>
+<th colspan="2">Perfil Aluno </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
@@ -17,7 +17,17 @@ Alunos graduandos de um campo dentro da área da tecnologia, com desejo de mudar
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td>Uma ferramenta de busca abrangente, que traga, de forma unificada, intuitiva e com qualidade, as mais diversas informações sobre o mercado de tecnologia da informação;</td><br>
+<tr>
+<td>Essa ferramenta precisa apresentar características como:<br>
+  •	Consistência;<br>
+  •	Organização;<br>
+  •	Clareza;<br>
+  •	Fluidez;<br>
+  •	Filtragem de dados;<br>
+  •	Atualização;<br>
+  •	Confiabilidade;<br>
+</tr>
 </tr>
 </tbody>
 </table>
