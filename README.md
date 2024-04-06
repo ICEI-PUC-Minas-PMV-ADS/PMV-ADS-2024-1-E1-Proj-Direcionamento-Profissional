@@ -6,7 +6,15 @@ Desenvolvimento de Aplicação Web Front-End
 
 1º semestre/2024
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+A evolução constante no campo tecnológico, especialmente na área de 
+desenvolvimento de software, demanda que profissionais estejam continuamente 
+atualizados com as competências requisitadas pelo mercado de trabalho. (Silva; 
+Carvalho, 2017)
+
+Para atender à necessidade de usuários em busca de informações detalhadas que 
+auxiliem no desenvolvimento de suas carreiras, como desenvolvedores, propõe-se a 
+criação de um recurso informativo online que os oriente na seleção de caminhos 
+profissionais.
 
 ## Integrantes
 
