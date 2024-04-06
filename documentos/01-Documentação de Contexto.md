@@ -22,7 +22,7 @@ O principal objetivo deste projeto é tornar a informação sobre a área de des
 
 Com o crescimento constante da indústria da tecnologia, e o aumento da procura por profissionais qualificados nessa área, é imprescindível a disponibilização de recursos que ajudem os interessados a entender melhor os panoramas fundamentais, as tendências atuais e as oportunidades de carreira nessa área. 
 
-Como objetivos específicos, destacam-se:
+Como objetivos específicos, destacam-se:<br>
  ● Disponibilização de ampla variedade de informações sobre desenvolvimento de forma clara, organizada e fácil de entender para pessoas em todos os níveis de conhecimento; <br>
  ● Ambiente gratuito e de fácil usabilidade; <br>
  ● Ranking de avaliações de instituições voltada para esse tipo de formação/especialização e ou curso profissionalizante. <br>
