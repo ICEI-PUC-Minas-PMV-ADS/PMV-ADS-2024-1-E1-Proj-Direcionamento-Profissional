@@ -41,7 +41,7 @@ O público-alvo é composto por dois segmentos principais, unidos pelo interesse
 
 Para definir o público-alvo com precisão, foram realizadas entrevistas com um grupo diversificado de oito indivíduos. Entre eles, seis são profissionais de variadas áreas de atuação, unidos pelo interesse compartilhado em seguir carreira no desenvolvimento de software. Os outros dois são estudantes concluintes do ensino médio em escolas públicas, cujas perspectivas contribuíram valiosamente para entender os perfis que demonstram interesse nessa área. Essas conversas forneceram insights essenciais sobre as motivações, expectativas e necessidades desse grupo heterogêneo, que estão a seguir:
 
-## 1.	Profissionais em Transição para Desenvolvimento de Software:
+<b>1.	Profissionais em Transição para Desenvolvimento de Software:</b>
 
 Este grupo é composto por indivíduos já formados em áreas diversas, que estão buscando uma transição de carreira para o campo do desenvolvimento de software. Eles possuem experiência profissional, embora não necessariamente na área de tecnologia, e estão em busca de uma nova vocação que ofereça oportunidades de crescimento, inovação e remuneração atrativa. Eles têm interesse em:
 
@@ -49,7 +49,7 @@ Este grupo é composto por indivíduos já formados em áreas diversas, que est�
  •	Obter informações claras e atualizadas sobre a remuneração média no mercado para diferentes especializações de desenvolvimento, a fim de fazer escolhas de carreira informadas que também atendam às suas expectativas financeiras.<br>
  •	Aprender exatamente quais habilidades e conhecimentos são necessários para se tornarem desenvolvedores bem-sucedidos, incluindo linguagens de programação, ferramentas e conceitos fundamentais, bem como as melhores rotas de aprendizado para adquirir essas competências, seja por meio de cursos online, bootcamps de programação ou graduações.
 
-## 2.	Formandos do Ensino Médio com Interesse em Desenvolvimento de Software:
+<b>2.	Formandos do Ensino Médio com Interesse em Desenvolvimento de Software:</b>
 
 Este segmento é formado por jovens que estão concluindo o ensino médio e têm um forte interesse em seguir carreira no campo do desenvolvimento de software. Eles estão no início de sua jornada profissional, sem experiência de trabalho ou formação superior, mas com uma paixão pela tecnologia e um desejo de aprender. Eles buscam:
 
