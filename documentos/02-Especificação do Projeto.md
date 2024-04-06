@@ -19,6 +19,8 @@ Alunos graduandos de um campo dentro da área da tecnologia, com desejo de mudar
 <td><b>Necessidades</b></td>
 <td>Uma ferramenta de busca abrangente, que traga, de forma unificada, intuitiva e com qualidade, as mais diversas informações sobre o mercado de tecnologia da informação;</td><br>
 <tr>
+<td>
+</td>
 <td>Essa ferramenta precisa apresentar características como:<br>
   •	Consistência;<br>
   •	Organização;<br>
@@ -27,6 +29,7 @@ Alunos graduandos de um campo dentro da área da tecnologia, com desejo de mudar
   •	Filtragem de dados;<br>
   •	Atualização;<br>
   •	Confiabilidade;<br>
+</td>
 </tr>
 </tr>
 </tbody>
