@@ -11,7 +11,9 @@
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
+<td width="600px">Alunos formandos do 3ºano do ensino médio de escolas públicas ou privadas com interesse no mercado de tecnologia da informação.</td>
+<td width="600px">Alunos graduandos de outras áreas, com interesse em mudança para a área da tecnologia.</td>
+<td width="600px">Alunos graduandos de um campo dentro da área da tecnologia, com desejo de mudar apenas deste campo, mas ainda permanecer dentro da área da tecnologia.</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
