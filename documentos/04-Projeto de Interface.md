@@ -32,14 +32,39 @@ O protótipo foi elaborado no site Figma e apresenta telas do sistema divididas 
 
 ### Tela Inicial
 
-<img> 
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/ae8f22efa1ce399757ce612e15b83e44e983641f/documentos/img/TelaInicial.jpg"
+    <figcaption>Figura 1 - Tela Inicial</figcaption>
+</figure> 
+  
+
 ### Tela pontuação do MEC
+
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/ae8f22efa1ce399757ce612e15b83e44e983641f/documentos/img/TelapontuacaodoMEC.jpg"
+    <figcaption>Figura 2 - Tela Pontuação do MEC</figcaption>
+</figure> 
 
 ### Tela pontuação do MEC por Estado
 
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/ae8f22efa1ce399757ce612e15b83e44e983641f/documentos/img/TelapontuacaodoMECporEstado.jpg"
+    <figcaption>Figura 3 - Tela Pontuação do MEC por Estado</figcaption>
+</figure> 
+
 ### Tela de área de atuação
 
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/ae8f22efa1ce399757ce612e15b83e44e983641f/documentos/img/Teladeareadeatuacao.jpg"
+    <figcaption>Figura 4 - Tela Pontuação de área de atuação</figcaption>
+</figure> 
+
 ### Tela de área de atuação por profissão
+
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/ae8f22efa1ce399757ce612e15b83e44e983641f/documentos/img/Teladeareadeatuacaoporprofissao.jpg"
+    <figcaption>Figura 4 - Tela Pontuação de área de atuação</figcaption>
+</figure> 
 
 
  
