@@ -16,7 +16,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 Um modelo inicial de baixa fidelidade é comumente empregado nas etapas iniciais e exploratórias de um projeto para validar conceitos e determinar se uma ideia possui valor funcional. Esses modelos devem ser ágeis, rudimentares e econômicos.
 
-O protótipo foi elaborado no site Figma e apresenta telas do sistema divididas em cabeçalho, conteúdo e rodapé. As telas foram divididas em 05, são elas:
+O protótipo foi elaborado no site Figma e apresenta telas do sistema divididas em cabeçalho, conteúdo e rodapé. As telas foram divididas em cinco, são elas:
 
 <body>
 <ul>
@@ -32,34 +32,51 @@ O protótipo foi elaborado no site Figma e apresenta telas do sistema divididas 
 
 ### Tela Inicial
 
+Na página inicial, os usuários terão acesso a uma descrição do objetivo do projeto e poderão explorar as abas disponíveis no site, incluindo a seção de profissões e a seção de pontuação pelo MEC.
+
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/ae8f22efa1ce399757ce612e15b83e44e983641f/documentos/img/TelaInicial.jpg"
     <figcaption>Figura 1 - Tela Inicial</figcaption>
 </figure> 
   
 
+
 ### Tela pontuação do MEC
+
+Na página de pontuação do MEC, os usuários encontrarão uma descrição da avaliação realizada pelo Ministério da Educação sobre as faculdades que oferecem cursos de tecnologia. Eles também poderão selecionar os estados brasileiros de interesse para obter informações detalhadas sobre as instituições de ensino daquela região.
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/ae8f22efa1ce399757ce612e15b83e44e983641f/documentos/img/TelapontuacaodoMEC.jpg"
     <figcaption>Figura 2 - Tela Pontuação do MEC</figcaption>
 </figure> 
 
+
+
 ### Tela pontuação do MEC por Estado
+
+Após escolher o estado de interesse, os usuários poderão visualizar as três principais faculdades avaliadas pelo MEC que oferecem cursos de tecnologia naquela região, juntamente com uma breve descrição de cada instituição.
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/ae8f22efa1ce399757ce612e15b83e44e983641f/documentos/img/TelapontuacaodoMECporEstado.jpg"
     <figcaption>Figura 3 - Tela Pontuação do MEC por Estado</figcaption>
 </figure> 
 
+
+
 ### Tela de área de atuação
+
+Na página de áreas de atuação, os usuários encontrarão uma introdução às diversas carreiras de tecnologia disponíveis e poderão selecionar aquela que mais lhes interessa para obter mais informações.
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/ae8f22efa1ce399757ce612e15b83e44e983641f/documentos/img/Teladeareadeatuacao.jpg"
     <figcaption>Figura 4 - Tela Pontuação de área de atuação</figcaption>
 </figure> 
 
+
+
 ### Tela de área de atuação por profissão
+
+Depois de selecionar a profissão de interesse, os usuários terão acesso a informações mais detalhadas sobre essa profissão específica, incluindo suas atribuições, os requisitos necessários e uma faixa salarial estimada.
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/ae8f22efa1ce399757ce612e15b83e44e983641f/documentos/img/Teladeareadeatuacaoporprofissao.jpg"
