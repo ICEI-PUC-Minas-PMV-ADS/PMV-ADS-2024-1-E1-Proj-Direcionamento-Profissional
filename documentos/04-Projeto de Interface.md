@@ -80,8 +80,24 @@ Depois de selecionar a profissão de interesse, os usuários terão acesso a inf
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/ae8f22efa1ce399757ce612e15b83e44e983641f/documentos/img/Teladeareadeatuacaoporprofissao.jpg"
-    <figcaption>Figura 4 - Tela Pontuação de área de atuação</figcaption>
+    <figcaption>Figura 5 - Tela Pontuação de área de atuação por profissão</figcaption>
 </figure> 
+
+
+
+### Navegação do usuário
+
+Aqui está uma descrição das opções de navegação disponíveis para os usuários no site:
+
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/e84be0bf17be1c05465c0c64a10f7e23538bd339/documentos/img/Navegacaosite.jpg"
+    <figcaption>Figura 6 - Navegação do usuário</figcaption>
+</figure> 
+
+
+
+
+
 
 
  
