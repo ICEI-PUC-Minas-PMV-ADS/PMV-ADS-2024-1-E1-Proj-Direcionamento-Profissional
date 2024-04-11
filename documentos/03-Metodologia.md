@@ -22,10 +22,10 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello, estruturado com as seguintes listas:
 
-#Product Backlog: recebe as tarefas a serem trabalhadas e representa o Backlog do produto. Todas as atividades identificadas no decorrer do projeto são incorporadas a esta lista.
-#To Do: esta lista representa o Sprint Backlog que está para ser trabalhado.
-#Doing: lista das tarefas em andamento.Este é o Sprint atual que estamos trabalhando.
-#Done: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
+- Backlog: recebe as tarefas a serem trabalhadas e representa o Backlog do produto. Todas as atividades identificadas no decorrer do projeto são incorporadas a esta lista.
+- To Do: esta lista representa o Sprint Backlog que está para ser trabalhado.
+- Doing: lista das tarefas em andamento.Este é o Sprint atual que estamos trabalhando.
+- Done: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
 
 O quadro kanban do grupo no Trello está disponível no link [https://trello.com/invite/b/EZLxVtNd/ATTI62d2ec963889a7408a7eef3a14c63712E8D75943/kanban-quadro-modelo]e é apresentado, no estado atual, na figura abaixo:
 
