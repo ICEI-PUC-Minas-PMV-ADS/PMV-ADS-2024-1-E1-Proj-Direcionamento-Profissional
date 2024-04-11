@@ -1,14 +1,9 @@
 
 # Metodologia
 
-Esta seção descreve a organização da equipe para a execução das tarefas do projeto e as ferramentas utilizadas para a manutenção dos códigos e demais artefatos.
-
-
 ## Gerenciamento de Projeto
 
-Optamos por adotar o framework ágil SCRUM para conduzir o desenvolvimento deste projeto, considerando os seguintes beneficios:
-
-“visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
+Para conduzir o desenvolvimento deste projeto, optamos por adotar o framework ágil SCRUM. Com sua estrutura iterativa e incremental, além de priorizar a colaboração, a flexibilidade e a entrega contínua de valor, ele também permite que as equipes trabalhem de forma mais eficiente, adaptando-se rapidamente às mudanças de requisitos e mantendo o foco na entrega de funcionalidades de alto valor para os usuários.
 
 ### Divisão de Papéis
 
