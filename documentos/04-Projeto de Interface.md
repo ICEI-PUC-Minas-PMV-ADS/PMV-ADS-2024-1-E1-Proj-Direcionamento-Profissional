@@ -32,6 +32,7 @@ O protótipo foi elaborado no site Figma e apresenta telas do sistema divididas 
 
 ### Tela Inicial
 
+<img> 
 ### Tela pontuação do MEC
 
 ### Tela pontuação do MEC por Estado
