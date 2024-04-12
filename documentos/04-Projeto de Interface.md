@@ -87,10 +87,10 @@ Depois de selecionar a profissão de interesse, os usuários terão acesso a inf
 
 ### Navegação do usuário
 
-Aqui está uma descrição das opções de navegação disponíveis para os usuários no site:
+Aqui está uma descrição das opções de navegação disponíveis para os usuários no site. Para visualizar o protótipo interativo, acesse o <a>https://www.figma.com/file/FzYv10nZ0xtzHJHl5YuKhf/Untitled?type=whiteboard&node-id=0%3A1&t=MHVvpLqejF1sebYb-1</a>.
 
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/e84be0bf17be1c05465c0c64a10f7e23538bd339/documentos/img/Navegacaosite.jpg"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/66f96608ad7fb5668889b5dff9632a7a1aa37686/documentos/img/Navegacaositecorrigida.jpg"
     <figcaption>Figura 6 - Navegação do usuário</figcaption>
 </figure> 
 
