@@ -13,11 +13,6 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 - Equipe de Desenvolvimento: Cristhiane Maria Assi, Ana Izabel de Sá Carvalho
 - Equipe de Design: Joaquim Lopes de Sousa Neto, Ana Clara Dunningham
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
 ### Processo
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello, estruturado com as seguintes listas:
@@ -27,34 +22,26 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 - Doing: lista das tarefas em andamento.Este é o Sprint atual que estamos trabalhando.
 - Done: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
 
-O quadro kanban do grupo no Trello está disponível no link [https://trello.com/invite/b/EZLxVtNd/ATTI62d2ec963889a7408a7eef3a14c63712E8D75943/kanban-quadro-modelo] e é apresentado, no estado atual, na figura abaixo:
+O quadro kanban do grupo no Trello está disponível no link https://trello.com/invite/b/EZLxVtNd/ATTI62d2ec963889a7408a7eef3a14c63712E8D75943/kanban-quadro-modelo e é apresentado, no estado atual, na figura abaixo:
 
 <figure> 
-  <img src="[https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/64721e7a3738dc36f4f8d85b09a83d12df7a7273/documentos/img/Kanban%20Norteie-se.png]"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/64721e7a3738dc36f4f8d85b09a83d12df7a7273/documentos/img/Kanban%20Norteie-se.png"
     <figcaption>
-  Figura 3 - Tela do esquema de cores e categorias</figcaption>
-  <img src="[https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png]"
-    <figcaption>Figura 2 - Tela do esquema de cores e categorias</figcaption>
-</figure> 
+    </figure>
 
 ### Etiquetas
 <p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
 
 <ul>
-  <li>Bug (Erro no código)</li>
-  <li>Desenvolvimento (Development)</li>
-  <li>Documentação (Documentation)</li>
-  <li>Gerência de Projetos (Project Management)</li>
-  <li>Infraestrutura (Infrastructure)</li>
-  <li>Testes (Tests)</li>
+  <li>Concluído (Ja finalizado)</li>
+  <li>Em desenvolvimento (Development)</li>
+  <li>Atrasado (Tarefa realizada fora do prazo pré-estabelecido)</li>
+  <li>À fazer (Tarefas a serem realizadas)</li>
 </ul>
 
 <figure> 
-  <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/1c8be34d006145aad0f71e39462bbd63b654c61c/documentos/img/Etiquetas.PNG"
     <figcaption>
-  Figura 3 - Tela do esquema de cores e categorias</figcaption>
-  <img src="[https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png]"
-    <figcaption>Figura 2 - Tela do esquema de cores e categorias</figcaption>
 </figure> 
 
 ### Ferramentas
