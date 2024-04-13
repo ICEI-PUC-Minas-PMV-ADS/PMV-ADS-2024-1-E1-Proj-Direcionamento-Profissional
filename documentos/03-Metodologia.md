@@ -15,7 +15,7 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 
 ### Processo
 
-Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello, estruturado com as seguintes listas:
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Kanbas do Trello, estruturado com as seguintes listas:
 
 - Backlog: recebe as tarefas a serem trabalhadas e representa o Backlog do produto. Todas as atividades identificadas no decorrer do projeto são incorporadas a esta lista.
 - To Do: esta lista representa o Sprint Backlog que está para ser trabalhado.
