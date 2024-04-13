@@ -54,7 +54,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | http://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional)                         |
 | Documentos do projeto               | GitHub                             | http://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/tree/main/documentos                           |
-| Projeto de Interface                | Figma                              | https://www.figma.com                  |
+| Projeto de Interface                | Figma                              | https://www.figma.com/file/FzYv10nZ0xtzHJHl5YuKhf/Untitled?type=whiteboard&node-id=0%3A1&t=MHVvpLqejF1sebYb-1                  |
 | Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
