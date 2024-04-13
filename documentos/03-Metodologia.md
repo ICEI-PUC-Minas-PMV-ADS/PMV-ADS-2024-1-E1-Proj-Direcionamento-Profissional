@@ -43,10 +43,13 @@ O quadro kanban do grupo no Trello está disponível no link [https://trello.com
 </ul>
 
 <figure> 
+  <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
+    <figcaption>
+  Figura 3 - Tela do esquema de cores e categorias</figcaption>
   <img src="[https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png]"
     <figcaption>Figura 2 - Tela do esquema de cores e categorias</figcaption>
 </figure> 
-  
+
 ### Ferramentas
 
 [Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
