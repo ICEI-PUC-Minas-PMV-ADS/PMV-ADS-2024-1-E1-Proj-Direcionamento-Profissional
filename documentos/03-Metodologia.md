@@ -27,7 +27,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 - Doing: lista das tarefas em andamento.Este é o Sprint atual que estamos trabalhando.
 - Done: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
 
-O quadro kanban do grupo no Trello está disponível no link [https://trello.com/invite/b/EZLxVtNd/ATTI62d2ec963889a7408a7eef3a14c63712E8D75943/kanban-quadro-modelo]e é apresentado, no estado atual, na figura abaixo:
+O quadro kanban do grupo no Trello está disponível no link [https://trello.com/invite/b/EZLxVtNd/ATTI62d2ec963889a7408a7eef3a14c63712E8D75943/kanban-quadro-modelo] e é apresentado, no estado atual, na figura abaixo:
 
 
 ### Etiquetas
@@ -43,8 +43,8 @@ O quadro kanban do grupo no Trello está disponível no link [https://trello.com
 </ul>
 
 <figure> 
-  <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
-    <figcaption>Figura 3 - Tela do esquema de cores e categorias</figcaption>
+  <img src="[https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png]"
+    <figcaption>Figura 2 - Tela do esquema de cores e categorias</figcaption>
 </figure> 
   
 ### Ferramentas
