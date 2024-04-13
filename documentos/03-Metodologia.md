@@ -30,7 +30,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 O quadro kanban do grupo no Trello está disponível no link [https://trello.com/invite/b/EZLxVtNd/ATTI62d2ec963889a7408a7eef3a14c63712E8D75943/kanban-quadro-modelo] e é apresentado, no estado atual, na figura abaixo:
 
 <figure> 
-  <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
+  <img src="[https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/64721e7a3738dc36f4f8d85b09a83d12df7a7273/documentos/img/Kanban%20Norteie-se.png]"
     <figcaption>
   Figura 3 - Tela do esquema de cores e categorias</figcaption>
   <img src="[https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png]"
