@@ -9,6 +9,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/56332624f3105f0cf774e5ab7c553b2605e06aaa/documentos/img/Userflow%20norteie-se.png"
 <figcaption>Figura 1 - norteie-se userflow</figcaption>
 </figure>
+
 ## Protótipo
 
 Um modelo inicial de baixa fidelidade é comumente empregado nas etapas iniciais e exploratórias de um projeto para validar conceitos e determinar se uma ideia possui valor funcional. Esses modelos devem ser ágeis, rudimentares e econômicos.
