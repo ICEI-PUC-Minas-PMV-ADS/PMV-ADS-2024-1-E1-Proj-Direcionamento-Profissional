@@ -9,12 +9,6 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/56332624f3105f0cf774e5ab7c553b2605e06aaa/documentos/img/Userflow%20norteie-se.png"
 <figcaption>Figura 1 - norteie-se userflow</figcaption>
 </figure>
-
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
-
 ## Protótipo
 
 Um modelo inicial de baixa fidelidade é comumente empregado nas etapas iniciais e exploratórias de um projeto para validar conceitos e determinar se uma ideia possui valor funcional. Esses modelos devem ser ágeis, rudimentares e econômicos.
