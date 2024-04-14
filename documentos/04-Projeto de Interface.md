@@ -3,7 +3,7 @@
 
 ## User Flow
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de navegação do usuário na aplicação. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+O fluxograma apresentado na figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Protótipo de baixa fidelidade que se segue.
 
 <figure>
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/56332624f3105f0cf774e5ab7c553b2605e06aaa/documentos/img/Userflow%20norteie-se.png"
@@ -56,7 +56,7 @@ Após escolher o estado de interesse, os usuários poderão visualizar as três 
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/ae8f22efa1ce399757ce612e15b83e44e983641f/documentos/img/TelapontuacaodoMECporEstado.jpg"
-    <figcaption>Figura 3 - Tela Pontuação do MEC por Estado</figcaption>
+    <figcaption>Figura 4 - Tela Pontuação do MEC por Estado</figcaption>
 </figure> 
 
 
@@ -67,7 +67,7 @@ Na página de áreas de atuação, os usuários encontrarão uma introdução à
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/ae8f22efa1ce399757ce612e15b83e44e983641f/documentos/img/Teladeareadeatuacao.jpg"
-    <figcaption>Figura 3 - Tela Pontuação de área de atuação</figcaption>
+    <figcaption>Figura 5 - Tela Pontuação de área de atuação</figcaption>
 </figure> 
 
 
@@ -78,7 +78,7 @@ Depois de selecionar a profissão de interesse, os usuários terão acesso a inf
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/ae8f22efa1ce399757ce612e15b83e44e983641f/documentos/img/Teladeareadeatuacaoporprofissao.jpg"
-    <figcaption>Figura 4 - Tela Pontuação de área de atuação por profissão</figcaption>
+    <figcaption>Figura 6 - Tela Pontuação de área de atuação por profissão</figcaption>
 </figure> 
 
 
@@ -89,7 +89,7 @@ Aqui está uma descrição das opções de navegação disponíveis para os usu�
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/66f96608ad7fb5668889b5dff9632a7a1aa37686/documentos/img/Navegacaositecorrigida.jpg"
-    <figcaption>Figura 5 - Navegação do usuário</figcaption>
+    <figcaption>Figura 7 - Navegação do usuário</figcaption>
 </figure> 
 
 
