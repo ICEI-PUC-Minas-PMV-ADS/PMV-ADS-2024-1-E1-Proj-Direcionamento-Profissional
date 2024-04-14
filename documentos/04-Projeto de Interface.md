@@ -34,7 +34,7 @@ Na página inicial, os usuários terão acesso a uma descrição do objetivo do 
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/ae8f22efa1ce399757ce612e15b83e44e983641f/documentos/img/TelaInicial.jpg"
-    <figcaption>Figura 1 - Tela Inicial</figcaption>
+    <figcaption>Figura 2 - Tela Inicial</figcaption>
 </figure> 
   
 
@@ -45,7 +45,7 @@ Na página de pontuação do MEC, os usuários encontrarão uma descrição da a
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/ae8f22efa1ce399757ce612e15b83e44e983641f/documentos/img/TelapontuacaodoMEC.jpg"
-    <figcaption>Figura 2 - Tela Pontuação do MEC</figcaption>
+    <figcaption>Figura 3 - Tela Pontuação do MEC</figcaption>
 </figure> 
 
 
@@ -67,7 +67,7 @@ Na página de áreas de atuação, os usuários encontrarão uma introdução à
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/ae8f22efa1ce399757ce612e15b83e44e983641f/documentos/img/Teladeareadeatuacao.jpg"
-    <figcaption>Figura 4 - Tela Pontuação de área de atuação</figcaption>
+    <figcaption>Figura 3 - Tela Pontuação de área de atuação</figcaption>
 </figure> 
 
 
@@ -78,7 +78,7 @@ Depois de selecionar a profissão de interesse, os usuários terão acesso a inf
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/ae8f22efa1ce399757ce612e15b83e44e983641f/documentos/img/Teladeareadeatuacaoporprofissao.jpg"
-    <figcaption>Figura 5 - Tela Pontuação de área de atuação por profissão</figcaption>
+    <figcaption>Figura 4 - Tela Pontuação de área de atuação por profissão</figcaption>
 </figure> 
 
 
@@ -89,7 +89,7 @@ Aqui está uma descrição das opções de navegação disponíveis para os usu�
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/66f96608ad7fb5668889b5dff9632a7a1aa37686/documentos/img/Navegacaositecorrigida.jpg"
-    <figcaption>Figura 6 - Navegação do usuário</figcaption>
+    <figcaption>Figura 5 - Navegação do usuário</figcaption>
 </figure> 
 
 
