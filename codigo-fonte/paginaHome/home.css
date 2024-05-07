@@ -27,9 +27,10 @@ height: 60pt;
 background-color: #0d99ff;
 
 
+
 }
 #imagem{
-padding: 10pt 15pt;
+padding: 2.5pt 15pt;
 }
 
 footer{
@@ -103,9 +104,11 @@ text-align: center;
             text-align: right;
             color: white;
             background-color:#0d99ff;
+            border: white;
             display: inline;
             position:absolute; 
-            right:55%;
+            right:53%;
+            padding: 5px;
             
          
 
@@ -132,10 +135,15 @@ text-align: center;
             border: white;
             position:absolute; 
             left:90%;
+            padding: 5px;
             
              
 
 
     }
 }
+}
+   
+
+
 }
