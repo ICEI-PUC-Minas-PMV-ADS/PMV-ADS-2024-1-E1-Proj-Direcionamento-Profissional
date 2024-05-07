@@ -2,10 +2,13 @@
 margin: 0;
 padding: 0;
 }
+
 body{
 background-color: #bde3ff;
 font-family: tahoma;
+margin: 0;
 }
+
 #navegacao{
 width: 100%;
 height: 30pt;
@@ -13,6 +16,7 @@ background-color: white;
 text-align: right;
 font-size: 12pt;
 }
+
 nav ul li{
 display: inline-block;
 margin: 7.5pt 30pt 7.5pt 0pt;
@@ -21,10 +25,13 @@ margin: 7.5pt 30pt 7.5pt 0pt;
 width: 100%;
 height: 60pt;
 background-color: #0d99ff;
+
+
 }
 #imagem{
 padding: 10pt 15pt;
 }
+
 footer{
 clear: both;
 width: 100%;
@@ -32,8 +39,104 @@ height: 20pt;
 background-color: white;
 text-align: center;
 }
+
+#titulo{
+    h1{font-size: 400%;
+        text-align: center;
+        font-weight: normal;
+        margin:0
+    }
+
+    p{font-size: 200%;
+      text-align: center;
+      margin:0
+    }
+    }
+
 /*Daqui para baixo pode ser criado as cofigurações css de sua página*/
 
 #conteudo{
-    width: 100%;
+    h{font-size: xx-large;
+      text-align: center;
+      font-weight: normal;
+      margin:0    
+    }
+
+    color:  white;
+    display: inline-block;
+    background-color:#0d99ff;   
+    width: 40%;
+    margin: 40px;
+    padding: 50px;
+    box-sizing: border-box;
+    border-radius: 7px;
+    }
+
+    h2{font-size: xx-large;
+        text-align: center;
+        font-weight: normal;
+    }
+
+    #conteudo2{
+        display: inline;
+        margin: -70px;
+        padding: 0px;      
+    }
+
+    
+   
+#parte2{
+    
+
+    h3{ font-size: 150%;
+        font-weight: normal;
+        text-align: center;
+        display: inline-block;
+        background-color: white;   
+        width: 45%;
+        margin: 30px;
+        padding: 30px;
+        box-sizing: border-box;
+        border-radius: 7px;
+
+        #saibamais{ 
+            text-align: right;
+            color: white;
+            background-color:#0d99ff;
+            display: inline;
+            position:absolute; 
+            right:55%;
+            
+         
+
+        }
+
+    }
+
+
+    h4{font-size: 150%;
+        font-weight: normal;
+        text-align: center;
+        display: inline-block;
+        background-color: white;   
+        width: 45%;
+        margin: 30px;
+        padding: 30px;
+        box-sizing: border-box;
+        border-radius: 7px;
+
+        #saibamais{ 
+            text-align: ;
+            color: white;
+            background-color:#0d99ff;
+            display: inline;
+            border: white;
+            position:absolute; 
+            left:90%;
+            
+             
+
+
+    }
+}
 }
