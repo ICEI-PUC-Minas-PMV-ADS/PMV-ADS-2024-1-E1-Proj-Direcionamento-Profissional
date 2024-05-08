@@ -1,26 +1,26 @@
 *{
     margin: 0;
     padding: 0;
-    }
+}
     
-    body{
-        background-color: white;
-        font-family: tahoma;
-        margin: 0;
-    }
+body{
+    background-color: white;
+    font-family: tahoma;
+    margin: 0;
+}
     
-    #navegacao{
-        width: 100%;
-        height: 30pt;
-        background-color: white;
-        text-align: right;
-        font-size: 12pt;
-    }
+#navegacao{
+    width: 100%;
+    height: 30pt;
+    background-color: white;
+    text-align: right;
+    font-size: 12pt;
+}
     
-    nav ul li{
+nav ul li{
     display: inline-block;
     margin: 7.5pt 30pt 7.5pt 0pt;
-    }
+}
 
 #logo{
     width: 100%;
@@ -52,73 +52,71 @@ footer {
         margin: 2px;
 }
     
-        p{font-size: 200%;
-          text-align: center;
-          margin:0
-        }
-        }
+    p{font-size: 200%;
+    text-align: center;
+    margin:0
+    }
+}
     
     /*Daqui para baixo pode ser criado as cofigurações css de sua página*/
     
-    #conteudo{
-        color:  white;
-        display: inline-block;
-        background-color:#0d99ff;   
-        width: 70%;
-        margin: 30px;
-        padding: 50px;
-        box-sizing: border-box;
-        border-radius: 7px;
-    }
+#conteudo{
+    color:  white;
+    display: inline-block;
+    background-color:#0d99ff;   
+    width: 70%;
+    margin: 30px;
+    padding: 50px;
+    box-sizing: border-box;
+    border-radius: 7px;
+}
     
-        h2{font-size: xx-medium;
-            text-align: center;
-            font-weight: normal;
-        }
+h2{font-size: xx-medium;
+text-align: center;
+font-weight: normal;
+}
     
-        #conteudo2{
-            display: inline;
-            margin: -320px;
-            padding: 250px;      
-        }
-    
-        .inline-superior {
-            display: inline-block;
-            width: 100%;
-            background-color: #0d99ff;
-            padding: 25px;
-            margin-bottom: 0%;
-            margin-top: 20px;
-            box-sizing: border-box;
-            text-align: left;
-            font-size: 150%;
-            color: white;
-            border-radius: 5px;
-        }
-       
-    #parte2{
-        display: inline-block;
-            width: 100%;
-            background-color: #bde3ff;
-            padding: 25px;
-            margin-bottom: 0%;
-            margin-top: 0px;
-            box-sizing: border-box;
-            text-align: center;
-            font-size: 100%;
-            color: black;
-            border-radius: 5px;
-    }
+#conteudo2{
+    display: inline;
+    margin: -320px;
+    padding: 250px;      
+}
 
-    #saibamais{ 
-            text-align: right;
-            color: white;
-            background-color:#0d99ff;
-            border: white;
-            display: inline;
-            position:absolute; 
-            right:30%;
-            padding: 5px;
-        }
-        }
-    
+.inline-superior {
+    display: inline-block;
+    width: 100%;
+    background-color: #0d99ff;
+    padding: 25px;
+    margin-bottom: 0%;
+    margin-top: 20px;
+    box-sizing: border-box;
+    text-align: left;
+    font-size: 150%;
+    color: white;
+    border-radius: 5px;
+}
+       
+#parte2{
+    display: inline-block;
+    width: 100%;
+    background-color: #bde3ff;
+    padding: 25px;
+    margin-bottom: 0%;
+    margin-top: 0px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 100%;
+    color: black;
+    border-radius: 5px;
+}
+
+#saibamais{ 
+    text-align: right;
+    color: white;
+    background-color:#0d99ff;
+    border: white;
+    display: inline;
+    position:absolute; 
+    right:30%;
+    padding: 5px;
+}
