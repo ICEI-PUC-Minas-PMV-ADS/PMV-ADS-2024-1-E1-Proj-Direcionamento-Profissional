@@ -29,6 +29,34 @@ nav ul li {
 #pagina {
     padding: 1% 1% 0%;
 }
+#saibamais { 
+    text-align: right;
+    color: white;
+    background-color:#0d99ff;
+    border: white;
+    padding: 10px;
+    border-radius: 3px;    
+}
+#saibamais2 { 
+    text-align: right;
+    color: white;
+    background-color:#0d99ff;
+    border: white;
+    padding: 10px;
+    border-radius: 3px; 
+    float: inline-end;
+    margin: 0px 10px 0px 0px;
+}
+#saibamais3 { 
+    text-align: right;
+    color: white;
+    background-color:#0d99ff;
+    border: white;
+    padding: 10px;
+    border-radius: 3px; 
+    float: inline-start;
+    margin: 0px 0px 0px 10px;
+}
 footer {
     clear: both;
     width: 100%;
@@ -47,7 +75,7 @@ footer {
 }
 #page-content {
     margin-left: 1%;
-    margin-right: 2%;    
+    margin-right: 1%;    
 }
 #campo-introdutorio {
     margin-bottom: 35px;
