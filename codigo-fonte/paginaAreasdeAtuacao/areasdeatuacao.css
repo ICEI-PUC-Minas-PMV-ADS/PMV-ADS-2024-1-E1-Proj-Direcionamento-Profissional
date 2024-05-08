@@ -2,8 +2,7 @@
     margin: 0;
     padding: 0;
 }
-body{
-    
+body{    
     font-family: tahoma;
 }
 #navegacao {
@@ -15,8 +14,8 @@ body{
 }
 nav ul li {
     display: inline-block;
-    margin: 7.5pt 30pt 7.5pt 0pt;}
-
+    margin: 7.5pt 30pt 7.5pt 0pt;
+}
 #logo {
     width: 100%;
     height: 60pt;
@@ -104,6 +103,24 @@ footer {
     box-sizing: border-box;
     border-radius: 7px;
 }
+.campo-nome-areaAtuacao {
+    text-align: center;
+    margin: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nome-areaAtuacao {
+    text-align:center;
+    background-color: #0d99ff;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    overflow: hidden; white-space: nowrap;
+    margin-left: auto;
+    margin-right: auto;
+}
 #saibamais { 
     text-align: right;
     color: white;
@@ -116,15 +133,6 @@ footer {
     text-align: center;
     margin-top: 20px;
 }
-.nome-faculdade {
-    text-align:center;
-    background-color: #0d99ff;
-    color: white;
-    padding: 10px;
-    border-radius: 5px;
-    padding-left: 30px;
-    padding-right: 30px;
-}
 a {
     color: #0963a3;
     text-decoration: solid ;    
@@ -132,10 +140,4 @@ a {
 a:hover {
     color: #053d64;
     text-decoration: solid ; 
-}
-.campo-nome-faculdade {
-    text-align: center;
-    margin: 20px;
-    margin-left: 0px;
-    margin-right: 0px;
 }
