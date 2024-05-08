@@ -1,12 +1,48 @@
 # Template padrão da Aplicação
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+O design básico do site foi desenvolvido utilizando as linguagens de marcação HTML e CSS
 
-[Apresente a estrutura padrão da sua aplicação.]
+As páginas incluirão elementos padrão, como o menu de navegação, cabeçalho e rodapé, juntamente com os elementos de identidade visual mencionados a seguir:
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+<ul>
+<li>Cores: RGB: #0d99ff, #bde3ff, white e black;</li>
+<li>Font-family: Tahoma.</li>
+<li>Font-size:....</li>
+</ul>
+
+Você pode acessar o código utilizado para criar os elementos mencionados  <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/tree/main/codigo-fonte">aqui</a>. As imagens e ícones utilizados no projeto estão disponíveis <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/tree/main/codigo-fonte/img">aqui</a>.
+<br>
+<br>
+<br>
+<strong>Tela Home</strong>
+<br>
+Na tela Home, os visitantes encontrarão uma breve descrição do projeto e poderão navegar pelas diferentes seções do site, como a área de profissões e a seção de classificação pelo MEC.
+<br>
+<br>
+<strong>Tela Pontuação do MEC</strong>
+<br>
+Na página de classificação do MEC, os usuários serão introduzidos a atuação do Ministério da Educação e receberão um breve relato sobre a área de tecnologia e sua demanda. Além disso, poderão explorar outras seções do site.
+<br>
+<br>
+<strong>Tela Melhores faculdades</strong>
+<br>
+Na página de melhores faculdades, os visitantes terão acesso a um ranking das melhores faculdades públicas e privadas do Brasil que oferecem cursos de tecnologia, classificadas de acordo com a pontuação atribuída pelo MEC. Eles também poderão explorar as demais seções do site.
+<br>
+<br>
+<strong>Tela Areas de atuação</strong>
+<br>
+Na seção de áreas de atuação, os visitantes serão apresentados às várias carreiras de tecnologia disponíveis e poderão escolher aquela que mais lhes interessa para obter mais informações. Eles também poderão explorar as demais seções do site.
+<br>
+<br>
+<strong>Tela Profissões</strong>
+<br>
+Após escolher a profissão de interesse, os usuários poderão acessar detalhes mais específicos sobre essa carreira, como suas responsabilidades, os requisitos exigidos e uma estimativa salarial.Além disso, poderão explorar outras seções do site.
+
+<strong>Criação do logotipo</strong>
+<br>
+O logotipo do site foi desenvolvido utilizando a cor preta. O processo de criação começou com o nome do projeto, "Norteie-se", que evoca os pontos cardeais e, por conseguinte, a rosa dos ventos, um símbolo que tem a função de orientar quem o utiliza, refletindo assim o propósito do projeto. Para destacar a ênfase na área de estudo de tecnologia, incorporamos o elemento do computador.
+
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/20a9c4bd9eb0525c9e5ca0a27a373af3683ab618/codigo-fonte/img/Logo.png">
+  <figcaption> Figura ? - Logotipo
+</figure> 
