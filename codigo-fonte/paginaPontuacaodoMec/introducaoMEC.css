@@ -95,7 +95,17 @@ font-weight: normal;
     color: white;
     border-radius: 5px;
 }
-       
+
+a {
+    color: #0963a3;
+    text-decoration: solid ;
+    
+}
+a:hover {
+    color: #053d64;
+    text-decoration: solid ; 
+}
+
 #parte2{
     display: inline-block;
     width: 100%;
@@ -120,3 +130,4 @@ font-weight: normal;
     right:30%;
     padding: 5px;
 }
+
