@@ -11,5 +11,24 @@ SILVEIRA, Daniel. Falta de oportunidades no mercado atinge 3 em cada 10 brasilei
 
 HELDER, Silveira. Brasil terá déficit de 530 mil profissionais de tecnologia até 2025, mostra estudo do Google. Portal de Notícias G1, São Paulo, 31 de maio de 2023. Disponível em:  https://g1.globo.com/trabalho-e-carreira/noticia/2023/05/31/brasil-tera-deficit-de-530-mil-profissionais-de-tecnologia-ate-2025-mostra-estudo-do-google.ghtml. Acesso em: 14/03/2024
 
+MINISTÉRIO DA EDUCAÇÃO. Cadastro Nacional de Cursos e Instituições de Educação Superior (e-MEC). Disponível em: https://emec.mec.gov.br/emec/nova. Acesso em: 22/04/2024.
+
+INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA (INEP). Divulgados os resultados do IDD, CPC e IGC. Disponível em: https://www.gov.br/inep/pt-br/assuntos/noticias/indicadores-de-qualidade-da-educacao-superior/divulgados-os-resultados-do-idd-cpc-e-igc. Acesso em: 22/04/2024.
+
+FOLHA DE S.PAULO. Ranking Universitário Folha (RUF) 2023. Disponível em: https://ruf.folha.uol.com.br/2023/ranking-de-universidades/principal/. Acesso em: 22/04/2024.
+
+Universidade de São Paulo (USP). Graduação. Disponível em: https://www5.usp.br/ensino/graduacao/. Acesso em: 22/04/2024.
+
+Universidade Estadual de Campinas (UNICAMP). Página inicial. Disponível em: https://www.unicamp.br/. Acesso em: 22/04/2024.  
+
+Universidade Federal do Rio Grande do Sul (UFRGS). Página inicial. Disponível em: http://www.ufrgs.br/ufrgs/inicial. Acesso em: 22/04/2024. 
+
+Pontifícia Universidade Católica de Minas Gerais (PUC Minas). Página inicial. Disponível em: https://www.pucminas.br/destaques/Paginas/default.aspx. Acesso em: 22/04/2024.
+
+Universidade do Vale do Rio dos Sinos (Unisinos). Página inicial. Disponível em: https://www.unisinos.br. Acesso em: 22/04/2024.
+
+Universidade Presbiteriana Mackenzie. Página inicial. Disponível em: https://www.mackenzie.br. Acesso em: 22/04/2024.
+
+Brasscom. Estudo da Brasscom aponta demanda de 797 mil profissionais de tecnologia até 2025. Disponível em: https://brasscom.org.br/estudo-da-brasscom-aponta-demanda-de-797-mil-profissionais-de-tecnologia-ate-2025/. Acesso em: 07/05/2024
 
 
