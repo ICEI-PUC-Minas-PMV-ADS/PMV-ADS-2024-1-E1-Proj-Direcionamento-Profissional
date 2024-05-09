@@ -64,9 +64,9 @@ footer {
     color:  white;
     display: inline-block;
     background-color:#0d99ff;   
-    width: 70%;
+    max-width: 70%;
     margin: 30px;
-    padding: 50px;
+    padding: 60px;
     box-sizing: border-box;
     border-radius: 7px;
 }
@@ -74,12 +74,6 @@ footer {
 h2{font-size: xx-medium;
 text-align: center;
 font-weight: normal;
-}
-    
-#conteudo2{
-    display: inline;
-    margin: -320px;
-    padding: 250px;      
 }
 
 .inline-superior {
@@ -131,3 +125,11 @@ a:hover {
     padding: 5px;
 }
 
+#imgintroducao{
+    position: relative;
+    margin-top: -440px;
+    margin-bottom: 140px;
+    margin-left: 960px;
+    margin-right: 0px;  
+    
+}
