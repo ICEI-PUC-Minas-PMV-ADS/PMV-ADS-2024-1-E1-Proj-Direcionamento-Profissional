@@ -63,9 +63,11 @@ footer {
 #conteudo{
     color:  white;
     display: inline-block;
+    text-align: justify;
     background-color:#0d99ff;   
-    max-width: 70%;
+    width: 700px;
     margin: 30px;
+    height: 650px;
     padding: 60px;
     box-sizing: border-box;
     border-radius: 7px;
@@ -127,9 +129,9 @@ a:hover {
 
 #imgintroducao{
     position: relative;
-    margin-top: -440px;
-    margin-bottom: 140px;
-    margin-left: 960px;
+    margin-top: -500px;
+    margin-bottom: 180px;
+    margin-left: 710px;
     margin-right: 0px;  
     
 }
