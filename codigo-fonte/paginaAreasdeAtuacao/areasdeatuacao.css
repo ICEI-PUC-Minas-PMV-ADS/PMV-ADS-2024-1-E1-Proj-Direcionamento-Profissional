@@ -141,14 +141,6 @@ footer {
     margin-left: auto;
     margin-right: auto;
 }
-#saibamais { 
-    text-align: right;
-    color: white;
-    background-color:#0d99ff;
-    border: white;
-    padding: 10px;
-    border-radius: 3px;    
-}
 .botao {
     text-align: center;
     margin-top: 20px;
