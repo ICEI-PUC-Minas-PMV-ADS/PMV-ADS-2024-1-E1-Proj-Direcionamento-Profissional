@@ -28,14 +28,19 @@ nav ul li {
 #pagina {
     padding: 1% 1% 0%;
 }
+.botao {
+    text-align: center;
+    clear: both;
+}
 #saibamais { 
     text-align: right;
     color: white;
     background-color:#0d99ff;
     border: white;
     padding: 10px;
-    border-radius: 3px;    
+    border-radius: 3px;
 }
+
 #saibamais2 { 
     text-align: right;
     color: white;
@@ -72,10 +77,7 @@ footer {
     background-color: #bde3ff;
     border-radius: 5px;
 }
-#page-content {
-    margin-left: 1%;
-    margin-right: 1%;    
-}
+
 #campo-introdutorio {
     margin-bottom: 35px;
     text-align: justify;
@@ -85,8 +87,8 @@ footer {
     width: 100%;
     background-color: #0d99ff;
     padding: 25px;
-    margin-bottom: 30px;
-    margin-top: 30px;
+    margin-bottom: 0%;
+    margin-top: 20px;
     box-sizing: border-box;
     text-align: left;
     font-size: 150%;
@@ -95,21 +97,34 @@ footer {
 }
 .inline-block {
     display: inline-block;
-    width: 22%;
-    min-width: 300px;
+    width: 10%;
+    min-width: 350px;
     margin: 50px 10px 50px 10px;
     padding: 30px;
     background-color: #fff;
-    box-sizing: border-box;
+    box-sizing:content-box;
     border-radius: 7px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .campo-nome-areaAtuacao {
     text-align: center;
-    margin: 20px;
-    margin-left: 0px;
-    margin-right: 0px;
+    margin: 35px;
     margin-left: auto;
     margin-right: auto;
+}
+.campo-titulo{
+    display: inline-block;
+    width: 100%;
+    background-color: #0d99ff;
+    padding: 25px;
+    margin-bottom: 0%;
+    margin-top: 20px;
+    box-sizing: border-box;
+    text-align: left;
+    font-size: 150%;
+    color: white;
+    border-radius: 5px;
 }
 .nome-areaAtuacao {
     text-align:center;
@@ -117,21 +132,18 @@ footer {
     color: white;
     padding: 10px;
     border-radius: 5px;
-    overflow: hidden; white-space: nowrap;
     margin-left: auto;
     margin-right: auto;
 }
-#saibamais { 
-    text-align: right;
+.nome-areaAtuacao2 {
+    font-size:medium;
+    text-align:center;
+    background-color: #0d99ff;
     color: white;
-    background-color:#0d99ff;
-    border: white;
     padding: 10px;
-    border-radius: 3px;    
-}
-.botao {
-    text-align: center;
-    margin-top: 20px;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
 }
 a {
     color: #0963a3;

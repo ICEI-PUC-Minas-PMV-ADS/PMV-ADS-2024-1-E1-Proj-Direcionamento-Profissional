@@ -63,10 +63,12 @@ footer {
 #conteudo{
     color:  white;
     display: inline-block;
+    text-align: justify;
     background-color:#0d99ff;   
-    width: 70%;
+    width: 700px;
     margin: 30px;
-    padding: 50px;
+    height: 650px;
+    padding: 60px;
     box-sizing: border-box;
     border-radius: 7px;
 }
@@ -74,12 +76,6 @@ footer {
 h2{font-size: xx-medium;
 text-align: center;
 font-weight: normal;
-}
-    
-#conteudo2{
-    display: inline;
-    margin: -320px;
-    padding: 250px;      
 }
 
 .inline-superior {
@@ -131,3 +127,11 @@ a:hover {
     padding: 5px;
 }
 
+#imgintroducao{
+    position: relative;
+    margin-top: -500px;
+    margin-bottom: 180px;
+    margin-left: 710px;
+    margin-right: 0px;  
+    
+}
