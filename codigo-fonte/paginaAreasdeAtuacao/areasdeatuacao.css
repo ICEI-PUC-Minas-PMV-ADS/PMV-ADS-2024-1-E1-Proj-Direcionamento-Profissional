@@ -28,14 +28,19 @@ nav ul li {
 #pagina {
     padding: 1% 1% 0%;
 }
+.botao {
+    text-align: center;
+    clear: both;
+}
 #saibamais { 
     text-align: right;
     color: white;
     background-color:#0d99ff;
     border: white;
     padding: 10px;
-    border-radius: 3px;    
+    border-radius: 3px;
 }
+
 #saibamais2 { 
     text-align: right;
     color: white;
@@ -104,8 +109,7 @@ footer {
 }
 .campo-nome-areaAtuacao {
     text-align: center;
-    margin: 20px;
-
+    margin: 35px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -140,10 +144,6 @@ footer {
     border-radius: 5px;
     margin-left: auto;
     margin-right: auto;
-}
-.botao {
-    text-align: center;
-    margin-top: 20px;
 }
 a {
     color: #0963a3;
