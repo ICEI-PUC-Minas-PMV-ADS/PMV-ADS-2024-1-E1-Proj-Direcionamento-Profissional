@@ -29,6 +29,14 @@ Universidade do Vale do Rio dos Sinos (Unisinos). Página inicial. Disponível e
 
 Universidade Presbiteriana Mackenzie. Página inicial. Disponível em: https://www.mackenzie.br. Acesso em: 22/04/2024.
 
-Brasscom. Estudo da Brasscom aponta demanda de 797 mil profissionais de tecnologia até 2025. Disponível em: https://brasscom.org.br/estudo-da-brasscom-aponta-demanda-de-797-mil-profissionais-de-tecnologia-ate-2025/. Acesso em: 07/05/2024
+Brasscom. Estudo da Brasscom aponta demanda de 797 mil profissionais de tecnologia até 2025. Disponível em: https://brasscom.org.br/estudo-da-brasscom-aponta-demanda-de-797-mil-profissionais-de-tecnologia-ate-2025/. Acesso em: 07/05/2024.
 
+Glassdoor. Buscar salários e compensações. Disponível em: https://www.glassdoor.com.br/Salários. Acesso em: 08/05/2024.
 
+Linkedin. Salário Brasil. Disponível em: https://www.linkedin.com/in/salario/?originalSubdomain=br. Acesso em: 08/05/2024.
+
+Alura. Cursos de Tecnologia. Disponível em: https://www.alura.com.br/. Acesso em: 08/05/2024.
+
+Udemy. Uma ampla seleção de cursos. Disponível em: https://www.udemy.com/pt/. Acesso em 08/05/2024.
+
+InfoQ. Disseminando conhecimento e inovação em desenvolvimento de software coorporativo. Disponível em: https://www.infoq.com/br/development/. Acesso em 08/05/2024.
