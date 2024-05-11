@@ -4,13 +4,15 @@
 
 Nesse primeiro eixo do curso, para simplificar a utilização do Git e a organização das pastas e artefatos de implementação no sistema de arquivos, o projeto foi estruturado de modo que cada aluno trabalhe com seus arquivos nas suas respectivas pastas, identificadas por nomes das suas respectivas telas.
 
-- Pasta src (root do projeto): index.html, index.css, index.js - Desenvolvedores responsáveis: Cristhiane Maria Assi e Karina Reis.
-- Pasta src\clientes: clientes.html, clientes.css, clientes.js - Desenvolvedores responsáveis: Cristhiane Maria Assi e Victor Emanuel de Souza.
-- Pasta src\funcionarios: funcionarios.html, funcionarios.css, funcionarios.js  - Desenvolvedores responsáveis: Ana Clara Dunningham Matos Seixas e Ana Izabel de Sá Carvalho.
+- Pasta src\paginaHome: index.html, index.css - Desenvolvedores responsáveis: Cristhiane Maria Assi e Karina Reis.
+  
+- Pasta src\paginaAreasdeAtuacao: areasdeatuacao.html, areasdeatuacao2.html,areasdeatuacao.css, desenvolvedor.css, automacao.html, backEnd.html, blockchain.html, frontend.html, fullStack.html, fullStackCloud.html, fullStackDataScientist.html, fullStackDevOps.html, fullStackGame.html, fullStackJava.html, fullStackJavaScript.html, fullStackMeanMern.html, fullStackNET.html, fullStackPHP.html, fullStackPython.html, fullStackRubyonRails.html, inteligenciaArtificial.html, jogos.html, mobile.html, realidadeVirtualRealidadeAumentada.html, segurançaEthicalHacker.html, sistemasInfraestrutura.html, softwareEmbarcado.html, web.html - Desenvolvedores responsáveis: Cristhiane Maria Assi e Victor Emanuel de Souza.
+  
+- Pasta src\paginaPontuacaoMec: introducaoMEC.css, introducaoMEC.html, pontucaoMEC.css, pontuacao.html - Desenvolvedores responsáveis: Ana Clara Dunningham Matos Seixas e Ana Izabel de Sá Carvalho.
 
 ## Instalação do Site
 
-O site em HTML/CSS/JS é um projeto estático. É necessário implantá-lo em um servidor web de sua preferência. Existem diversos servidores web gratuitos que podem ser utilizados, tal como GitHub Pages (GitHub.IO), Vercel, Render, Netlify, Surge.sh, entre outros. Nesse primeiro eixo, recomenda-se inclusive a utilização do GitHub Pages. [Insira o endereço eletrônico público para acessá-lo.] 
+O site em HTML/CSS é um projeto estático, logo pode ser utilizado tanto em servidores como em navegadores web. Clique <a href="https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/codigo-fonte/paginaHome/index.html" target="_blank">aqui</a> para acessá-lo.
 
 ## Histórico de versões
 
