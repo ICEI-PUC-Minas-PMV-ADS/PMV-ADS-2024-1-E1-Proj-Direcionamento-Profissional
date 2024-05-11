@@ -11,7 +11,7 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 - Scrum Master: Victor Emanuel de Souza
 - Product Owner: Karina Reis
 - Equipe de Desenvolvimento: Cristhiane Maria Assi, Ana Izabel de Sá Carvalho
-- Equipe de Design: Joaquim Lopes de Sousa Neto, Ana Clara Dunningham
+- Equipe de Design: Ana Clara Dunningham Matos Seixas
 
 ### Processo
 
