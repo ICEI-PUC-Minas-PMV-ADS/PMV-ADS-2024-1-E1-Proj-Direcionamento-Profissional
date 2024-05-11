@@ -62,15 +62,14 @@ footer {
     
 #conteudo{
     color:  white;
-    display: inline-block;
     text-align: justify;
     background-color:#0d99ff;   
-    width: 700px;
-    margin: 30px;
-    height: 650px;
-    padding: 60px;
     box-sizing: border-box;
     border-radius: 7px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    padding: 3%;
 }
     
 h2{font-size: xx-medium;
@@ -127,11 +126,69 @@ a:hover {
     margin: -5px;
 }
 
-#imgintroducao{
-    position: relative;
-    margin-top: -500px;
-    margin-bottom: 180px;
-    margin-left: 710px;
-    margin-right: 0px;  
+
+.tamanho50-100 {
+    width: 50%;
+}
+
+.tamanho50-90{
+    width: 50%;
+}
+
+.div1 {
+    display: flex;
+    width: 100%;
+}
+
+.tamanho100{
+    width: 65%;
     
+}
+
+.imagemprincipal {
+    margin-left: -5%;
+    margin-top: 10%;
+    border-radius: 5px;
+}
+
+#imgintroducao{
+    align-content: center;
+}
+
+.tamanho50-95{
+    width: 50%;
+}
+
+
+@media screen and (max-width: 950px) {
+    .letramenor {
+        font-size: small;
+    }
+    .div1 {
+        display: grid;
+    }
+    .tamanho50-100 {
+        width: 100%;
+    }
+    .imagemprincipal {
+        margin-left: 0;
+        margin-top: 0;
+    }
+    #conteudo {
+        padding: 3%;
+    }
+    nav ul li {
+        margin: 0 2px 0 2px;
+    }
+    footer {
+        font-size: small;
+    }
+
+    .tamanho50-95{
+        width: 95%;
+    }
+    
+    .tamanho100 {
+        width: 100%;
+    }
 }
