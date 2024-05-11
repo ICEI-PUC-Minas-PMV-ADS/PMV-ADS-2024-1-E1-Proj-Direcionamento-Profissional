@@ -27,7 +27,7 @@ RF-02: A aplicação deve permitir ao usuário acessar lista de sub-área.
 ●areasdeatuacao.css
 
 #### Instruções de acesso
-Abra um navegador de Internet e informe a seguinte URL: PREECHER!!
+Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/codigo-fonte/paginaAreasdeAtuacao/areasdeatuacao.html
 
 Na tela, estão disponíveis 24 áreas de tecnologia para escolha, divididas em duas telas. O usuário pode navegar entre essas telas utilizando o botão "Próxima Página" localizado na parte inferior direita. Depois de selecionar a área desejada, é preciso clicar no botão "Saiba mais" para obter detalhes adicionais sobre a profissão escolhida.
 
@@ -102,7 +102,7 @@ RF-04: A aplicação deve permitir ao usuário acessar planos de estudos para a 
 
 
 #### Instruções de acesso
-Abra um navegador de Internet e informe a seguinte URL: PREECHER!!
+Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/codigo-fonte/paginaAreasdeAtuacao/blockchain.html
 
 Após selecionar a profissão desejada através do botão "Saiba mais", o usuário terá acesso à tela de detalhamento da profissão, que inclui informações sobre as atribuições da profissão, os requisitos necessários e a média salarial associada.
 
@@ -139,6 +139,6 @@ Exemplo da tela de cadastro:
 
 
 #### Instruções de acesso
-Abra um navegador de Internet e informe a seguinte URL: PREECHER!!
+Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/codigo-fonte/paginaPontuacaodoMec/introducaoMEC.html
 
 Na tela de introdução ao MEC, os usuários encontrarão informações sobre a área de tecnologia e detalhes fornecidos pelo Ministério da Educação sobre a pontuação das faculdades e rankings. Ao clicar no botão "Saiba mais" no canto inferior direito da tela, terão acesso às três melhores faculdades privadas e às três melhores faculdades públicas. Eles também poderão acessar o site de cada instituição para obter mais informações, clicando no botão "clique aqui" na descrição de cada faculdade.
