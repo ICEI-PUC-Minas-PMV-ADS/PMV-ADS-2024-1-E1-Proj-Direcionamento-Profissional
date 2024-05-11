@@ -4,13 +4,16 @@ Pré-requisitos: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024
 
 ### Tela de áreas de atuação (RF-01, RF-02)
 
-Responsável: PREENCHER!!
+Responsável: Cristhiane Maria Assi e Victor Emanuel de Souza
 
 O acesso à tela pode ser realizado por meio da opção de menu "Áreas de Atuação", presente em qualquer uma das telas do site.
 
-Exemplo da tela de cadastro: 
-INSERIR FOTO!!
-
+Exemplo da tela de áreas de atuação:
+<figure> 
+  <img src="../documentos/img/Areasdeatuacao.jpeg">
+  <figcaption> Figura 1 - Áreas de atuação
+</figure>
+    
 #### Requisito atendido
 RF-01: A aplicação deve permitir ao usuário acessar informações sobre a área de desenvolvimento.	
 
@@ -22,9 +25,6 @@ RF-02: A aplicação deve permitir ao usuário acessar lista de sub-área.
 ●areasdeatuacao2.html
 
 ●areasdeatuacao.css
-
-#### Estrutura de Dados
-??
 
 #### Instruções de acesso
 Abra um navegador de Internet e informe a seguinte URL: PREECHER!!
