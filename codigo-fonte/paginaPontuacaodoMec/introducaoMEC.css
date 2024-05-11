@@ -117,14 +117,14 @@ a:hover {
 }
 
 #saibamais{ 
-    text-align: right;
+    word-spacing: 2px;
     color: white;
     background-color:#0d99ff;
     border: white;
-    display: inline;
-    position:absolute; 
-    right:30%;
-    padding: 5px;
+    float: right;
+    letter-spacing: 1px;
+    padding: 3px;
+    margin: -5px;
 }
 
 #imgintroducao{
