@@ -21,7 +21,6 @@ profissionais.
 Ana Clara Dunningham Matos Seixas <br>
 Ana Izabel de Sá Carvalho <br>
 Cristhiane Maria Assi <br>
-Joaquim Lopes de Sousa Neto <br>
 Karina Reis <br>
 Victor Emanuel de Souza <br>
 
