@@ -4,7 +4,7 @@ Pré-requisitos: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024
 
 ### Tela de áreas de atuação (RF-01, RF-02)
 
-Responsável: Cristhiane Maria Assi e Victor Emanuel de Souza
+Responsável: Cristhiane Maria Assi e Victor Emanuel de Souza.
 
 O acesso à tela pode ser realizado por meio da opção de menu "Áreas de Atuação", presente em qualquer uma das telas do site.
 
@@ -33,12 +33,16 @@ Na tela, estão disponíveis 24 áreas de tecnologia para escolha, divididas em 
 
 
 ### Telas de profissões (RF-03, RF-04)
-Responsável: PREENCHER!!
+Responsável: Cristhiane Maria Assi e Victor Emanuel de Souza.
 
 O acesso às telas de profissões detalhadas é realizado através da tela de áreas de atuação, utilizando o botão "Saiba mais" associado a cada profissão.
 
-Exemplo da tela de cadastro: 
-INSERIR FOTO
+Exemplo da tela de profissões: 
+
+<figure> 
+  <img src="../documentos/img/Profissoes.jpeg">
+  <figcaption> Figura 2 - Telas de profissões
+</figure>
 
 #### Requisito atendido
 RF-03: A aplicação deve permitir ao usuário acessar descrição detalhada da sub-área selecionada.
@@ -96,8 +100,6 @@ RF-04: A aplicação deve permitir ao usuário acessar planos de estudos para a 
 
 ●web.html
 
-#### Estrutura de Dados
-??
 
 #### Instruções de acesso
 Abra um navegador de Internet e informe a seguinte URL: PREECHER!!
@@ -107,12 +109,21 @@ Após selecionar a profissão desejada através do botão "Saiba mais", o usuár
 
 
 ### Telas de pontuação do MEC (RF-05)
-Responsável: PREENCHER!!!
+Responsável: Ana Clara Dunningham, Ana Izabel de Sá Carvalho e Karina Reis.
 
 O acesso às telas pode ser feito através da opção de menu "Pontuações do MEC", disponível em todas as páginas do site. Em seguida, o usuário pode acessar o botão "Saiba Mais" localizado na parte inferior da tela para visualizar informações sobre as faculdades.
 
 Exemplo da tela de cadastro: 
-INSERIR FOTO
+
+<figure> 
+  <img src="../documentos/img/IntroducaoMec.jpeg">
+  <figcaption> Figura 3 - Tela introdução MEC
+</figure>
+
+<figure> 
+  <img src="../documentos/img/Melhoresfaculdades.jpeg">
+  <figcaption> Figura 4 - Tela Melhores faculdades
+</figure>
 
 #### Requisito atendido
 (RF-05): A aplicação deve permitir ao usuário acessar melhores instituições validadas pelo MEC.
@@ -126,8 +137,6 @@ INSERIR FOTO
 
 ●pontuacaoMEC.css
 
-#### Estrutura de Dados
-??
 
 #### Instruções de acesso
 Abra um navegador de Internet e informe a seguinte URL: PREECHER!!
