@@ -8,6 +8,7 @@
     <meta name="author" content="Cristhiane Maria Assi e Victor Emanuel de Souza">
     <meta name="keywords" content="Desenvolvedor, area de atuacao desenvolvedor, pontuacao mec Faculdades">
     <link rel="stylesheet" href="../paginaAreasdeAtuacao/areasdeatuacao.css">
+    <script src="areasdeatuacao.js" defer></script>
 </head>
 <body>
     <header>
@@ -30,16 +31,19 @@
         <div class="inline-superior">
             <p>Descubra os vários campos de atuação da área de tecnologia.</p>
         </div>
-            <p id= "campo-introdutorio">A área de Tecnologia da Informação (TI) abrange diversos campos especializados, incluindo o desenvolvimento de software, desenvolvimento web, segurança da informação, inteligência artificial e aprendizado de máquina, e o desenvolvimento de jogos. Cada campo oferece desafios únicos e oportunidades para profissionais, destacando a diversidade e riqueza da área de TI.</p>
+            <p id="campo-introdutorio">A área de Tecnologia da Informação (TI) abrange diversos campos especializados, incluindo o desenvolvimento de software, desenvolvimento web, segurança da informação, inteligência artificial e aprendizado de máquina, e o desenvolvimento de jogos. Cada campo oferece desafios únicos e oportunidades para profissionais, destacando a diversidade e riqueza da área de TI.</p>
         <div id="conteudo">
-                <div class="campo-titulo">
-                    <p>Desenvolvedores:</p>
+            <div class="campo-titulo">
+                <p>Desenvolvedores:</p>
+                <div class="search-container">
+                    <input type="text" id="search-bar" placeholder="Pesquisar">
                 </div>
+            </div>
             <div class="inline-block">
                 <div class="campo-nome-areaAtuacao">
-                    <strong class="nome-areaAtuacao">Blockchain</strong> 
+                    <strong class="nome-areaAtuacao">Blockchain</strong>
                 </div>
-                <div> 
+                <div>
                     <p>Trabalha com o desenvolvimento de tecnologias de registro distribuído (como blockchain) para criar sistemas seguros e descentralizados, como criptomoedas e contratos inteligentes.</p><br><br>
                     <div class="botao">
                         <a href="../paginaAreasdeAtuacao/blockchain.html"><button id="saibamais">Saiba mais &rarr;</button></a>
@@ -48,21 +52,20 @@
             </div>
             <div class="inline-block">
                 <div class="campo-nome-areaAtuacao">
-                    <strong class="nome-areaAtuacao">Full Stack DevOps</strong> 
+                    <strong class="nome-areaAtuacao">Full Stack DevOps</strong>
                 </div>
-                <div> 
-                <p>Especialista que combina o desenvolvimento de software (Full Stack) com práticas DevOps, focando na colaboração, monitoramento, automação e integração contínua para agilizar o desenvolvimento e a entrega de software.</p><br>
+                <div>
+                    <p>Especialista que combina o desenvolvimento de software (Full Stack) com práticas DevOps, focando na colaboração, monitoramento, automação e integração contínua para agilizar o desenvolvimento e a entrega de software.</p><br>
                     <div class="botao">
                         <a href="../paginaAreasdeAtuacao/fullStackDevOps.html"><button id="saibamais">Saiba mais &rarr;</button></a>
                     </div>
                 </div>
-            </div>            
+            </div>
             <div class="inline-block">
                 <div class="campo-nome-areaAtuacao">
                     <strong class="nome-areaAtuacao">Full Stack MEAN/MERN</strong>
-        
                 </div>
-                <div> 
+                <div>
                     <p>Desenvolve aplicações web usando as pilhas de tecnologia MEAN (MongoDB, Express.js, Angular, Node.js) ou MERN (MongoDB, Express.js, React, Node.js), lidando com front-end, back-end, e banco de dados.</p><br>
                     <div class="botao">
                         <a href="../paginaAreasdeAtuacao/fullStackMeanMern.html"><button id="saibamais">Saiba mais &rarr;</button></a>
@@ -71,9 +74,9 @@
             </div>
             <div class="inline-block">
                 <div class="campo-nome-areaAtuacao">
-                    <strong class="nome-areaAtuacao">Full Stack Cloud</strong> 
+                    <strong class="nome-areaAtuacao">Full Stack Cloud</strong>
                 </div>
-                <div> 
+                <div>
                     <p>Especializado no desenvolvimento de soluções na nuvem, abrangendo front-end, back-end, e a integração com serviços de cloud computing para escalabilidade e disponibilidade.</p><br><br>
                     <div class="botao">
                         <a href="../paginaAreasdeAtuacao/fullStackCloud.html"><button id="saibamais">Saiba mais &rarr;</button></a>
@@ -82,10 +85,10 @@
             </div>
             <div class="inline-block">
                 <div class="campo-nome-areaAtuacao">
-                    <strong class="nome-areaAtuacao">Full Stack Data Scientist</strong> 
+                    <strong class="nome-areaAtuacao">Full Stack Data Scientist</strong>
                 </div>
-                <div> 
-                <p>Um cientista de dados com habilidades em todo o espectro de desenvolvimento, incluindo coleta de dados, análise, modelagem de machine learning, até a implementação de soluções de dados completas.</p><br>
+                <div>
+                    <p>Um cientista de dados com habilidades em todo o espectro de desenvolvimento, incluindo coleta de dados, análise, modelagem de machine learning, até a implementação de soluções de dados completas.</p><br>
                     <div class="botao">
                         <a href="../paginaAreasdeAtuacao/fullStackDataScientist.html"><button id="saibamais">Saiba mais &rarr;</button></a>
                     </div>
@@ -93,9 +96,9 @@
             </div>
             <div class="inline-block">
                 <div class="campo-nome-areaAtuacao">
-                    <strong class="nome-areaAtuacao">Software Embarcado</strong> 
+                    <strong class="nome-areaAtuacao">Software Embarcado</strong>
                 </div>
-                <div> 
+                <div>
                     <p>Foca no desenvolvimento de software para ser incorporado em dispositivos ou sistemas específicos (como eletrônicos de consumo, sistemas automotivos), geralmente exigindo conhecimento de hardware e software.</p><br>
                     <div class="botao">
                         <a href="../paginaAreasdeAtuacao/softwareEmbarcado.html"><button id="saibamais">Saiba mais &rarr;</button></a>
@@ -104,31 +107,31 @@
             </div>
             <div class="inline-block">
                 <div class="campo-nome-areaAtuacao">
-                    <strong class="nome-areaAtuacao">Full Stack Game</strong> 
+                    <strong class="nome-areaAtuacao">Full Stack Game</strong>
                 </div>
-                <div> 
-                <p>Desenvolve jogos digitais abrangendo tanto o front-end (interface, gráficos) quanto o back-end (lógica, servidores), muitas vezes envolvendo também a integração com plataformas de jogos na nuvem.</p><br>
-                <div class="botao">
-                    <a href="../paginaAreasdeAtuacao/fullStackGame.html"><button id="saibamais">Saiba mais &rarr;</button></a>
-                </div>
+                <div>
+                    <p>Desenvolve jogos digitais abrangendo tanto o front-end (interface, gráficos) quanto o back-end (lógica, servidores), muitas vezes envolvendo também a integração com plataformas de jogos na nuvem.</p><br>
+                    <div class="botao">
+                        <a href="../paginaAreasdeAtuacao/fullStackGame.html"><button id="saibamais">Saiba mais &rarr;</button></a>
+                    </div>
                 </div>
             </div>
             <div class="inline-block">
                 <div class="campo-nome-areaAtuacao">
-                    <strong class="nome-areaAtuacao">Realidade Virtual Realidade Aumentada</strong> 
+                    <strong class="nome-areaAtuacao">Realidade Virtual Realidade Aumentada</strong>
                 </div>
-                <div> 
+                <div>
                     <p>Cria aplicativos e experiências imersivas utilizando tecnologias de VR e AR, para entretenimento, educação, treinamento, etc.</p><br><br><br>
                     <div class="botao">
                         <a href="../paginaAreasdeAtuacao/realidadeVirtualRealidadeAumentada.html"><button id="saibamais">Saiba mais &rarr;</button></a>
                     </div>
                 </div>
             </div>
-             <div class="inline-block">
+            <div class="inline-block">
                 <div class="campo-nome-areaAtuacao">
-                    <strong class="nome-areaAtuacao">Mobile</strong> 
+                    <strong class="nome-areaAtuacao">Mobile</strong>
                 </div>
-                <div> 
+                <div>
                     <p>Especializa-se no desenvolvimento de aplicativos para dispositivos móveis, incluindo smartphones e tablets, em plataformas como iOS e Android.</p><br><br><br>
                     <div class="botao">
                         <a href="../paginaAreasdeAtuacao/mobile.html"><button id="saibamais">Saiba mais &rarr;</button></a>
@@ -137,10 +140,10 @@
             </div>
             <div class="inline-block">
                 <div class="campo-nome-areaAtuacao">
-                    <strong class="nome-areaAtuacao">Ethical Hacker</strong> 
+                    <strong class="nome-areaAtuacao">Ethical Hacker</strong>
                 </div>
-                <div> 
-                    <p> Utiliza Python como linguagem principal para desenvolver ambos, front-end e back-end de aplicações web, muitas vezes integrando com frameworks como Django ou Flask.</p><br><br>
+                <div>
+                    <p>Utiliza Python como linguagem principal para desenvolver ambos, front-end e back-end de aplicações web, muitas vezes integrando com frameworks como Django ou Flask.</p><br><br>
                     <div class="botao">
                         <a href="../paginaAreasdeAtuacao/segurançaEthicalHacker.html"><button id="saibamais">Saiba mais &rarr;</button></a>
                     </div>
@@ -148,9 +151,9 @@
             </div>
             <div class="inline-block">
                 <div class="campo-nome-areaAtuacao">
-                    <strong class="nome-areaAtuacao">Full Stack Python</strong> 
+                    <strong class="nome-areaAtuacao">Full Stack Python</strong>
                 </div>
-                <div> 
+                <div>
                     <p>Utiliza Python como linguagem principal para desenvolver ambos, front-end e back-end de aplicações web, muitas vezes integrando com frameworks como Django ou Flask.</p><br><br>
                     <div class="botao">
                         <a href="../paginaAreasdeAtuacao/fullStackPython.html"><button id="saibamais">Saiba mais &rarr;</button></a>
@@ -159,11 +162,11 @@
             </div>
             <div class="inline-block">
                 <div class="campo-nome-areaAtuacao">
-                    <strong class="nome-areaAtuacao">Full Stack Ruby on Rails</strong> 
+                    <strong class="nome-areaAtuacao">Full Stack Ruby on Rails</strong>
                 </div>
-                <div> 
-                    <p></p>
-                    <div class="botao">Especializa-se no uso do framework Ruby on Rails para desenvolver aplicações web, abrangendo tanto o front-end quanto o back-end.</p><br><br>
+                <div>
+                    <p>Especializa-se no uso do framework Ruby on Rails para desenvolver aplicações web, abrangendo tanto o front-end quanto o back-end.</p><br><br>
+                    <div class="botao">
                         <a href="../paginaAreasdeAtuacao/fullStackRubyonRails.html"><button id="saibamais">Saiba mais &rarr;</button></a>
                     </div>
                 </div>
@@ -175,10 +178,9 @@
     <a href="../paginaAreasdeAtuacao/areasdeatuacao2.html"> <button id="saibamais2">Próxima Página &rarr;</button></a>
     <br>    
 </body>
-     <footer>
-        <div>
-    	    <p>Copyright © 2024 Norteie-se. Todos os direitos reservados.</p>
-        </div>
-    </footer>
-</body>
+<footer>
+    <div>
+        <p>Copyright © 2024 Norteie-se. Todos os direitos reservados.</p>
+    </div>
+</footer>
 </html>
