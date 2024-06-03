@@ -162,7 +162,7 @@ input[type=text] {
     font-size: 16px;
     margin: 20px  20px 10px;
     background-color: white;
-    background-image: url('https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/blob/f5748ffdb0f539bd2699ea8f7d9286da52496214/codigo-fonte/img/searchIcon.png');
+    background-image: src= "../codigo-fonte/img/searchIcon.png"
     background-position: 10px 10px; 
     background-repeat: no-repeat;
     background-size: 20px;
