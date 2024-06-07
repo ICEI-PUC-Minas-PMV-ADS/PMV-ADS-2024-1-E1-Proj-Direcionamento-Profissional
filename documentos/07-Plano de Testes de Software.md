@@ -20,7 +20,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-01: Verificar o funcionamento dos links da página Início
+  <td>CT-01: Verificar o funcionamento dos links da página Início.
 </td>
   <td>
    <ul>
@@ -54,7 +54,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-02: Verificar o funcionamento dos links da página Áreas de Atuação
+  <td>CT-02: Verificar o funcionamento dos links da página Áreas de Atuação.
 </td>
   <td>
    <ul>
@@ -93,7 +93,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-03: Verificar o funcionamento do filtro de pesquisa da página Áreas de Atuação
+  <td>CT-03: Verificar o funcionamento do filtro de pesquisa da página Áreas de Atuação.
 </td>
   <td>
    <ul>
@@ -164,7 +164,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-05: Verificar o funcionamento dos links da página Pontuações do MEC.
+  <td>CT-05: Verificar o funcionamento dos links da página Pontuações do MEC
 .
 </td>
   <td>
@@ -200,7 +200,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-06: Verificar o funcionamento dos links da página Melhores faculdades.
+  <td>CT-06: Verificar o funcionamento dos links da página Melhores faculdades
 .
 </td>
   <td>
