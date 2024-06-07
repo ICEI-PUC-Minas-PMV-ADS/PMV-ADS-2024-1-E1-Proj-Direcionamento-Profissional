@@ -4,9 +4,12 @@
 
 Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
 
-|Caso de Teste    | CT-X - Título Caso de Teste |
+|Caso de Teste    | CT-01: Verificar o funcionamento dos links da página Início
+ |
 |:---|:---|
-| Requisitos Associados | RF-X |
+| Requisitos Associados | RF-01: A aplicação deve permitir ao usuário acessar informações sobre a área de desenvolvimento
+RF-05: A aplicação deve permitir ao usuário acessar melhores instituições validadas pelo MEC
+ |
 | Objetivo do Teste | Descrição do objetivo do teste |
 | Passos | Indicar passos para a execução do teste |
 | Critérios de êxito | Indicar os critérios de êxito  |
