@@ -44,6 +44,44 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
  </tr>
 </table>
 
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-02: Verificar o funcionamento dos links da página Áreas de Atuação
+</td>
+  <td>
+   <ul>
+    <li>RF-01: A aplicação deve permitir ao usuário acessar informações sobre a área de desenvolvimento
+.</li>
+   <li>RF-02: A aplicação deve permitir ao usuário acessar lista de sub-área
+.</li>
+    <li>RF-04: A aplicação deve permitir ao usuário acessar planos de estudos para a sub-área selecionada
+.</li>
+    <li>RF-05: A aplicação deve permitir ao usuário acessar melhores instituições validadas pelo MEC
+.</li>
+   </ul>
+  </td>
+  <td>Verificar se os links da página Áreas de Atuação ao serem acionados, acessam as páginas correspondentes.</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página de inicio.</li>
+    <li>Clicar na página Áreas de Atuação.</li>
+    <li>Clicar nos links da página.</li>
+   </ol>
+   </td>
+  <td>Todos os links da página Áreas de Atuação devem encaminhar os usuários para as páginas de sub-áreas.</td>
+  <td>Ana</td>
+ </tr>
+</table>
 
  
 
