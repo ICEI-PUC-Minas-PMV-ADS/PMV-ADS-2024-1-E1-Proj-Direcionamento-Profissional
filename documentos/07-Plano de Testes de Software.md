@@ -83,5 +83,74 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
  </tr>
 </table>
 
- 
+ <table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-03: Verificar o funcionamento do filtro de pesquisa da página Áreas de Atuação
+</td>
+  <td>
+   <ul>
+    <li>RF-02: A aplicação deve permitir ao usuário acessar lista de sub-área
+.</li>
+   <li>RF-04: A aplicação deve permitir ao usuário acessar planos de estudos para a sub-área selecionada
+.</li>
+   </ul>
+  </td>
+  <td>Verificar se o filtro de pesquisa está selecionando o valor informado pelo usuário na lista de sub-áreas.</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página de inicio.</li>
+    <li>Clicar na página Áreas de Atuação.</li>
+    <li> Digitar no filtro de pesquisa o nome de alguma sub-área e verificar se o resultado é exibido na página.</li>
+   </ol>
+   </td>
+  <td>Os dados inseridos no filtro de pesquisa devem mostrar as sub-áreas que tem o nome ou descrição contendo o conteúdo informado pelo usuário.</td>
+  <td>Ana</td>
+ </tr>
+</table>
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-04: Verificar o funcionamento dos links das páginas de sub-áreas.
+</td>
+  <td>
+   <ul>
+    <li>RF-01: A aplicação deve permitir ao usuário acessar informações sobre a área de desenvolvimento
+.</li>
+   <li>RF-05: A aplicação deve permitir ao usuário acessar melhores instituições validadas pelo MEC
+.</li>
+   </ul>
+  </td>
+  <td>Verificar se os links das páginas de sub-áreas ao serem acionados, acessam as páginas correspondentes.</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página de inicio.</li>
+    <li>Clicar na página Áreas de Atuação.</li>
+    <li>Clicar em alguma sub-área.</li>
+    <li>Clicar nos links da página.</li>
+   </ol>
+   </td>
+  <td>Todos os links da página de sub-áreas devem encaminhar os usuários para as páginas correspondentes.</td>
+  <td>Ana</td>
+ </tr>
+</table>
 
