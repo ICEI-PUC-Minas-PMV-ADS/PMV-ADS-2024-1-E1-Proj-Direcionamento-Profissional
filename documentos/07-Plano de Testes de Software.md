@@ -189,3 +189,40 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Ana</td>
  </tr>
 </table>
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-06: Verificar o funcionamento dos links da página Melhores faculdades.
+.
+</td>
+  <td>
+   <ul>
+    <li>RF-01: A aplicação deve permitir ao usuário acessar informações sobre a área de desenvolvimento
+.</li>
+   <li>RF-05: A aplicação deve permitir ao usuário acessar melhores instituições validadas pelo MEC
+.</li>
+   </ul>
+  </td>
+  <td>Verificar se os links da página Pontuações do MEC ao serem acionados, acessam as páginas correspondentes.</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página de inicio.</li>
+    <li>Clicar na página Pontuações do MEC.</li>
+    <li>Clicar no link para página Melhores faculdades.</li>
+    <li>Clicar nos links da página.</li>
+   </ol>
+   </td>
+  <td>Verificar se os links das página Melhores faculdades ao serem acionados, acessam as páginas correspondentes.</td>
+  <td>Ana</td>
+ </tr>
+</table>
