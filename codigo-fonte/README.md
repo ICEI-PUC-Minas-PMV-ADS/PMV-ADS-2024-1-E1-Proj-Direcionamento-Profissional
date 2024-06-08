@@ -57,3 +57,25 @@ O site em HTML/CSS é um projeto estático, logo pode ser utilizado tanto em ser
 - Tela Áreas de Atuação CSS e HTML
 - Telas individuais de profissão
 - Tela de introdução do MEC
+
+ ### [0.1.5] - 30/05/2024
+#### Atualização
+- Inclusão da barra de pesquisa.
+ Js
+
+ ### [0.1.5] - 06/06/2024
+#### Testes
+  
+1-Página: Inicial/Home - Verificar o funcionamento dos links da página Início. 
+Responsáveis: Cristhiane Maria Assi e Karina Reis
+
+2-Página: Áreas de atuação - Verificar o funcionamento dos links da página Áreas de Atuação. 
+                           - Verificar o funcionamento do filtro de pesquisa da página Áreas de Atuação.
+                           - Verificar o funcionamento dos links das páginas de sub-áreas.
+Responsáveis: Cristhiane Maria Assi e Victor Emanuel de Souza
+
+3- Página: Pontuações do MEC - Verificar o funcionamento dos links da página Pontuações do MEC.
+                               Verificar o funcionamento dos links da página Melhores faculdades.
+Responsáveis:Ana Clara Dunningham e Ana Izabel de Sá Carvalho
+
+
