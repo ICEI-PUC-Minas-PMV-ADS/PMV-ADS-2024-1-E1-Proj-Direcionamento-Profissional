@@ -61,7 +61,8 @@ O site em HTML/CSS é um projeto estático, logo pode ser utilizado tanto em ser
  ### [0.1.5] - 30/05/2024
 #### Atualização
 - Inclusão da barra de pesquisa.
- Js
+Arquivo - areasdeatuacao.js
+Responsável: Ana Clara Dunningham
 
  ### [0.1.5] - 06/06/2024
 #### Testes
