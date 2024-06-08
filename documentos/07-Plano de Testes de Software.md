@@ -58,8 +58,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 </td>
   <td>
    <ul>
-    <li>RF-01: A aplicação deve permitir ao usuário acessar informações sobre a área de desenvolvimento
-.</li>
    <li>RF-02: A aplicação deve permitir ao usuário acessar lista de sub-área
 .</li>
     <li>RF-04: A aplicação deve permitir ao usuário acessar planos de estudos para a sub-área selecionada
