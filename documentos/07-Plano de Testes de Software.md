@@ -40,7 +40,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Todos os links da página Início devem encaminhar os usuários para as páginas descritas.</td>
-  <td>Ana</td>
+  <td>Cristhiane Maria Assi  e Karina Reis </td>
  </tr>
 </table>
 
@@ -77,7 +77,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Todos os links da página Áreas de Atuação devem encaminhar os usuários para as páginas de sub-áreas.</td>
-  <td>Ana</td>
+  <td>Cristhiane Maria Assi e Victor Emanuel de Souza.</td>
  </tr>
 </table>
 
@@ -112,7 +112,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Os dados inseridos no filtro de pesquisa devem mostrar as sub-áreas que tem o nome ou descrição contendo o conteúdo informado pelo usuário.</td>
-  <td>Ana</td>
+  <td>Cristhiane Maria Assi e Victor Emanuel de Souza.</td>
  </tr>
 </table>
 
@@ -148,7 +148,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Todos os links da página de sub-áreas devem encaminhar os usuários para as páginas correspondentes.</td>
-  <td>Ana</td>
+  <td>Cristhiane Maria Assi e Victor Emanuel de Souza.</td>
  </tr>
 </table>
 
@@ -184,7 +184,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Verificar se os links das página Pontuações do MEC ao serem acionados, acessam as páginas correspondentes.</td>
-  <td>Ana</td>
+  <td>Ana Clara Dunningham, Ana Izabel de Sá Carvalho</td>
  </tr>
 </table>
 
@@ -221,6 +221,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Verificar se os links das página Melhores faculdades ao serem acionados, acessam as páginas correspondentes.</td>
-  <td>Ana</td>
+  <td>Ana Clara Dunningham, Ana Izabel de Sá Carvalho</td>
  </tr>
 </table>
