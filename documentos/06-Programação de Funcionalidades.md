@@ -7,10 +7,11 @@ Pré-requisitos: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024
 Responsável: Cristhiane Maria Assi e Victor Emanuel de Souza.
 
 O acesso à tela pode ser realizado por meio da opção de menu "Áreas de Atuação", presente em qualquer uma das telas do site.
+Foi implementado um campo de pesquisa, onde é possivel pesquisar a sub-área pelo nome.
 
 Exemplo da tela de áreas de atuação:
 <figure> 
-  <img src="../documentos/img/Areasdeatuacao.jpeg">
+  <img src="../documentos/img/Barradepesquisa.jpeg">
   <figcaption> Figura 1 - Áreas de atuação
 </figure>
     
@@ -26,6 +27,8 @@ RF-02: A aplicação deve permitir ao usuário acessar lista de sub-área.
 
 ●areasdeatuacao.css
 
+●areasdeatuacao.js
+
 #### Instruções de acesso
 Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/codigo-fonte/paginaAreasdeAtuacao/areasdeatuacao.html
 
@@ -40,7 +43,7 @@ O acesso às telas de profissões detalhadas é realizado através da tela de á
 Exemplo da tela de profissões: 
 
 <figure> 
-  <img src="../documentos/img/Profissoes.jpeg">
+  <img src="../documentos/img/Barradepesquisa.jpeg">
   <figcaption> Figura 2 - Telas de profissões
 </figure>
 
