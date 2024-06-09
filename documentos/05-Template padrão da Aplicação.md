@@ -1,12 +1,12 @@
 # Template padrão da Aplicação
 
-O design básico do site foi desenvolvido utilizando as linguagens de marcação HTML e CSS
+O design básico do site foi desenvolvido utilizando as linguagens de marcação HTML, CSS e a linguagem de programação JavaScript.
 
 As páginas incluirão elementos padrão, como o menu de navegação, cabeçalho e rodapé, juntamente com os elementos de identidade visual mencionados a seguir:
 <ul>
 <li>Cores: RGB: #0d99ff, #bde3ff, #053d64, #0963a3, white e black;</li>
 <li>Font-family: Tahoma.</li>
-<li>Font-size :Small até XX-Large.</li>
+<li>Font-size: Small até XX-Large.</li>
 </ul>
 Você pode acessar o código utilizado para criar os elementos mencionados  <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/tree/main/codigo-fonte">aqui</a>. As imagens e ícones utilizados no projeto estão disponíveis <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/tree/main/codigo-fonte/img">aqui</a>.
 <br>
@@ -41,9 +41,9 @@ Na página de melhores faculdades, os visitantes terão acesso a um ranking das 
 <br>
 <strong>Tela Areas de atuação</strong>
 <br>
-Na seção de áreas de atuação, os visitantes serão apresentados às várias carreiras de tecnologia disponíveis e poderão escolher aquela que mais lhes interessa para obter mais informações. Eles também poderão explorar as demais seções do site.    
+Na seção de áreas de atuação, os visitantes serão apresentados às várias carreiras de tecnologia disponíveis e poderão escolher aquela que mais lhes interessa para obter mais informações. Terão como ferramenta para auxiliar a navegação do site, uma barra de pesquisa. Eles também poderão explorar as demais seções do site.    
 <figure> 
-  <img src="../documentos/img/Areasdeatuacao.jpeg">
+  <img src="../documentos/img/Barradepesquisa.jpeg">
   <figcaption> Figura 4 - Areas de atuação
 </figure> 
 <br>
