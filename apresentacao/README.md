@@ -23,7 +23,7 @@ authors:
     affiliation: PUC Minas
     family-names: Azevedo Nigri do Carmo
     given-names: Humberto
-keywords:
+`keywords `
   - Estudantes
   - Livros
 repository-code:https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/tree/main
