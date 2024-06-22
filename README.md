@@ -8,16 +8,16 @@
 
 [Uploading citation.cff…message: Please cite this software using these metadata. title: Direcionamento Profissional: Norteie-se.com authors:
 
--family-names: Dunningham Matos Seixas given-names: Ana Clara
--family-names: de Sá Carvalho given-names: Ana Izabel
--family-names: Assi given-names: Cristhiane Maria<br>
--family-names: Reis given-names: Karina<br>
--family-names: Emanuel de Souza given-names: Victor<br>
--name-suffix: Professor affiliation: PUC Minas family-names: Azevedo Nigri do Carmo given-names: Humberto<br>
+- family-names: Dunningham Matos Seixas given-names: Ana Clara
+- family-names: de Sá Carvalho given-names: Ana Izabel
+- family-names: Assi given-names: Cristhiane Maria<br>
+- family-names: Reis given-names: Karina<br>
+- family-names: Emanuel de Souza given-names: Victor<br>
+- name-suffix: Professor affiliation: PUC Minas family-names: Azevedo Nigri do Carmo given-names: Humberto<br>
 
 ## Keywords
-*Estudantes
-*Livros
+- Mercado de trabalho em desenvolvimento de software
+- Mapa de carreira
 
 repository-code:https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional  version: 1.0.0 date-released: 2024-06-22 
 
@@ -25,14 +25,14 @@ repository-code:https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj
 O principal objetivo deste projeto é tornar a informação sobre a área de desenvolvimento mais acessível e informativa para aqueles que têm interesse em entender mais sobre a profissão de desenvolvimento.<br>
 
 ## Integrantes
-*Ana Clara Dunningham Matos Seixas
-*Ana Izabel de Sá Carvalho
-*Cristhiane Maria Assi
-*Karina Reis
-*Victor Emanuel de Souza
+- Ana Clara Dunningham Matos Seixas
+- Ana Izabel de Sá Carvalho
+- Cristhiane Maria Assi
+- Karina Reis
+- Victor Emanuel de Souza
 
 ## Orientador
-*Humberto Azevedo Nigri do Carmo
+- Humberto Azevedo Nigri do Carmo
 
 ## Instruções de utilização
 O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores como em navegadores web. Clique <a href= https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/codigo-fonte/paginaHome/index.html> aqui </a> para acessá-lo.
