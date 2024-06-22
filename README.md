@@ -1,34 +1,41 @@
 ## Direcionamento Profissional: Norteie-se.com
 
-Análise e Desenvolvimento de Sistemas - PUC Minas
+`Análise e Desenvolvimento de Sistemas - PUC Minas`
 
-Desenvolvimento de Aplicação Web Front-End
+`Desenvolvimento de aplicação web front-end`
 
-1º semestre/2024
+`1º semestre/2024` 
 
-A evolução constante no campo tecnológico, especialmente na área de 
-desenvolvimento de software, demanda que profissionais estejam continuamente 
-atualizados com as competências requisitadas pelo mercado de trabalho. (Silva; 
-Carvalho, 2017)
+[Uploading citation.cff…message: Please cite this software using these metadata. title: Direcionamento Profissional: Norteie-se.com authors:
 
-Para atender à necessidade de usuários em busca de informações detalhadas que 
-auxiliem no desenvolvimento de suas carreiras, como desenvolvedores, propõe-se a 
-criação de um recurso informativo online que os oriente na seleção de caminhos 
-profissionais.
+-family-names: Dunningham Matos Seixas given-names: Ana Clara
+-family-names: de Sá Carvalho given-names: Ana Izabel
+-family-names: Assi given-names: Cristhiane Maria<br>
+-family-names: Reis given-names: Karina<br>
+-family-names: Emanuel de Souza given-names: Victor<br>
+-name-suffix: Professor affiliation: PUC Minas family-names: Azevedo Nigri do Carmo given-names: Humberto<br>
+
+## Keywords
+*Estudantes
+*Livros
+
+repository-code:https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional  version: 1.0.0 date-released: 2024-06-22 
+
+## Objetivo
+O principal objetivo deste projeto é tornar a informação sobre a área de desenvolvimento mais acessível e informativa para aqueles que têm interesse em entender mais sobre a profissão de desenvolvimento.<br>
 
 ## Integrantes
-
-Ana Clara Dunningham Matos Seixas <br>
-Ana Izabel de Sá Carvalho <br>
-Cristhiane Maria Assi <br>
-Karina Reis <br>
-Victor Emanuel de Souza <br>
-
+*Ana Clara Dunningham Matos Seixas
+*Ana Izabel de Sá Carvalho
+*Cristhiane Maria Assi
+*Karina Reis
+*Victor Emanuel de Souza
 
 ## Orientador
+*Humberto Azevedo Nigri do Carmo
 
-Humberto Azevedo Nigri do Carmo
-
+## Instruções de utilização
+O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores como em navegadores web. Clique <a href= https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/codigo-fonte/paginaHome/index.html> aqui </a> para acessá-lo.
 
 # Documentação
 
