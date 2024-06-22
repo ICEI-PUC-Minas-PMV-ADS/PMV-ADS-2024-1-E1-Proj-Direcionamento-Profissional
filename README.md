@@ -46,7 +46,7 @@ Humberto Azevedo Nigri do Carmo
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+* A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servidores como em navegadores web. Clique [aqui](https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/codigo-fonte/paginaHome/index.html) para acessá-lo.
 
 # Código-Fonte
 
