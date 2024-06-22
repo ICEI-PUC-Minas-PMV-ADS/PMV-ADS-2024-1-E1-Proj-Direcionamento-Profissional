@@ -6,21 +6,6 @@
 
 `1º semestre/2024` 
 
-[Uploading citation.cff…message: Please cite this software using these metadata. title: Direcionamento Profissional: Norteie-se.com authors:
-
-- family-names: Dunningham Matos Seixas given-names: Ana Clara
-- family-names: de Sá Carvalho given-names: Ana Izabel
-- family-names: Assi given-names: Cristhiane Maria<br>
-- family-names: Reis given-names: Karina<br>
-- family-names: Emanuel de Souza given-names: Victor<br>
-- name-suffix: Professor affiliation: PUC Minas family-names: Azevedo Nigri do Carmo given-names: Humberto<br>
-
-## Keywords
-- Mercado de trabalho em desenvolvimento de software
-- Mapa de carreira
-
-repository-code:https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional  version: 1.0.0 date-released: 2024-06-22 
-
 ## Objetivo
 O principal objetivo deste projeto é tornar a informação sobre a área de desenvolvimento mais acessível e informativa para aqueles que têm interesse em entender mais sobre a profissão de desenvolvimento.<br>
 
