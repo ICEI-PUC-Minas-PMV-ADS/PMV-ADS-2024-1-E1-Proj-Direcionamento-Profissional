@@ -1,0 +1,23 @@
+message: Please cite this software using these metadata.
+title:Direcionamento-Profissional
+authors:
+  - family-names: Dunningham Matos Seixas
+    given-names:  Ana Clara
+  - family-names: de Sá Carvalho
+    given-names: Ana Izabel
+  - family-names: Assi
+    given-names: Cristhiane Maria
+  - family-names: Reis
+    given-names: Karina
+  - family-names: Emanuel de Souza
+    given-names: Victor
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Azevedo Nigri do Carmo
+    given-names: Humberto
+keywords:
+  - Mercado de trabalho em desenvolvimento de software
+  - Mapa de carreira
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional
+version: 1.0.0
+date-released: 2024-06-24
