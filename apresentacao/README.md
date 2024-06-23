@@ -27,4 +27,4 @@ A equipe também deverá gravar um vídeo de, no máximo, três minutos, com a a
 
 ## Hospedagem
 
-A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servidores como em navegadores web. Clique aqui para acessá-lo.
+A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servidores como em navegadores web. Clique aqui https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/codigo-fonte/paginaHome/index.html para acessá-lo.
