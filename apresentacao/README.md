@@ -1,7 +1,6 @@
 ## Apresentação de slides
 
-[Adicione pdf de [PROJETO - Apresentação Final (1).pdf](https://github.com/user-attachments/files/15946360/PROJETO.-.Apresentacao.Final.1.pdf)
-apresentação.]
+ [PROJETO - Apresentação Final (1).pdf](https://github.com/user-attachments/files/15946360/PROJETO.-.Apresentacao.Final.1.pdf)
 
 ## Vídeo de apresentação das funcionalidades
 
