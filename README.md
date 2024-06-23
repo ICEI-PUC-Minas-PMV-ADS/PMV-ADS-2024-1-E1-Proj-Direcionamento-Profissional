@@ -47,3 +47,7 @@ O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em 
 # Apresentação
 
 * <a href="apresentacao/README.md">Apresentação do Projeto</a>
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-1-E1-Proj-Direcionamento-Profissional/assets/166245415/a5ff5907-1907-46f0-86e0-d7c3cf6b9a48
+
